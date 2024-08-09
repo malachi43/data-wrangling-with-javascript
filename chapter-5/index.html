@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Data Wrangling</title>
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      div#placeholder {
+        width: 1000px;
+        height: 500px;
+      }
+      table {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-weight: bold;
+        width: 100%;
+        padding: 1rem;
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td></td>
+        <td>Car Accidents</td>
+        <td></td>
+      </tr>
+
+      <tr>
+        <td>Fatalities</td>
+        <td>
+          <div id="placeholder"></div>
+        </td>
+        <td></td>
+      </tr>
+
+      <tr>
+        <td></td>
+        <td>#Months</td>
+        <td></td>
+      </tr>
+    </table>
+
+    <!-- SCRIPTS -->
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="/bower_components/flot/source/jquery.canvaswrapper.js"></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.colorhelpers.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.saturated.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.browser.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.drawSeries.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.errorbars.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.uiConstants.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.logaxis.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.symbol.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.flatdata.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.navigate.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.fillbetween.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.stack.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.touchNavigate.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.hover.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.touch.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.time.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.axislabels.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.selection.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.composeImages.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="/bower_components/flot/source/jquery.flot.legend.js"
+    ></script>
+    <script src="/bower_components/data-forge/data-forge.dist.js"></script>
+    <script>
+      const url = "/EARTHQUAKE_TRENDS.csv";
+
+      $.get(url)
+        .then((res) => {
+          console.log(res)
+          // NOTE: use, const dataFrame = new dataForge.DataFrame(jsondataFromAPI)for JSON data  and const dataFrame = dataForge.fromCSV(res) for csv file loaded from http.
+
+          const dataFrame = dataForge
+            .fromCSV(res)
+            .parseFloats(["EARTHQUAKE_TRENDS", "Month#"])
+            //this data is used on the x-axis.
+            .setIndex("Month#");
+
+            //this data is used on the y-axis.
+          const trends = dataFrame.getSeries("EARTHQUAKE_TRENDS").toPairs();
+          //have a look a the trend shape in the browser console.
+          console.log(trends);
+
+          $.plot("#placeholder", [trends]);
+        })
+        .catch((err) =>
+          console.error(`Error encountered: ${err && err.message}`)
+        );
+    </script>
+  </body>
+</html>

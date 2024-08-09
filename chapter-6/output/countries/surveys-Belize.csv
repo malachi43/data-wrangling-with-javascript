@@ -1,0 +1,24 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+20001,20,2013-07-25 10:48:00,2013-07-25 11:44:00,CRB,Atlantic,Belize,bz,-6,Goff's Caye,Barrier,Mesoamerica,Great Caribbean
+20002,20,2013-07-25 13:02:00,2013-07-25 13:33:00,CRB,Atlantic,Belize,bz,-6,Rendezvous Reef,Barrier,Mesoamerica,Great Caribbean
+20003,20,2013-07-27 09:22:00,2013-07-27 09:47:00,CRB,Atlantic,Belize,bz,-6,Glover's Reef,Atoll,Mesoamerica,Great Caribbean
+20004,20,2013-07-27 11:18:30,2013-07-27 12:07:16,CRB,Atlantic,Belize,bz,-6,Glover's Reef,Atoll,Mesoamerica,Great Caribbean
+20005,20,2013-07-27 15:27:53,2013-07-27 16:14:55,CRB,Atlantic,Belize,bz,-6,Glover's Reef,Atoll,Mesoamerica,Great Caribbean
+20006,20,2013-07-28 09:35:00,2013-07-28 10:32:00,CRB,Atlantic,Belize,bz,-6,Glover's Reef,Atoll,Mesoamerica,Great Caribbean
+20007,20,2013-07-28 12:13:00,2013-07-28 13:07:00,CRB,Atlantic,Belize,bz,-6,Glover's Reef,Atoll,Mesoamerica,Great Caribbean
+20008,20,2013-07-28 14:50:00,2013-07-28 15:50:00,CRB,Atlantic,Belize,bz,-6,Glover's Reef,Atoll,Mesoamerica,Great Caribbean
+20009,20,2013-07-30 12:18:26,2013-07-30 12:58:29,CRB,Atlantic,Belize,bz,-6,Sapodilla Cayes,Barrier,Mesoamerica,Great Caribbean
+20010,20,2013-07-30 14:32:00,2013-07-30 15:20:00,CRB,Atlantic,Belize,bz,-6,Ranguana Caye,Barrier,Mesoamerica,Great Caribbean
+20011,20,2013-07-31 12:56:25,2013-07-31 13:42:30,CRB,Atlantic,Belize,bz,-6,Carrie Bow,Barrier,Mesoamerica,Great Caribbean
+20012,20,2013-07-31 15:06:14,2013-07-31 15:49:14,CRB,Atlantic,Belize,bz,-6,Tobacco Caye,Barrier,Mesoamerica,Great Caribbean
+20013,20,2013-07-31 16:33:57,2013-07-31 16:44:09,CRB,Atlantic,Belize,bz,-6,Cross Caye,Barrier,Mesoamerica,Great Caribbean
+20014,20,2013-08-02 09:43:00,2013-08-02 10:35:00,CRB,Atlantic,Belize,bz,-6,Turneffe Reef,Atoll,Mesoamerica,Great Caribbean
+20015,20,2013-08-02 12:04:00,2013-08-02 12:52:00,CRB,Atlantic,Belize,bz,-6,Turneffe Reef,Atoll,Mesoamerica,Great Caribbean
+20016,20,2013-08-02 14:09:07,2013-08-02 14:55:16,CRB,Atlantic,Belize,bz,-6,Turneffe Reef,Atoll,Mesoamerica,Great Caribbean
+20017,20,2013-08-03 12:14:00,2013-08-03 13:02:00,CRB,Atlantic,Belize,bz,-6,Lighthouse Reef,Atoll,Mesoamerica,Great Caribbean
+20018,20,2013-08-03 14:12:33,2013-08-03 14:59:17,CRB,Atlantic,Belize,bz,-6,Lighthouse Reef,Atoll,Mesoamerica,Great Caribbean
+20019,20,2013-08-03 16:04:00,2013-08-03 16:56:00,CRB,Atlantic,Belize,bz,-6,Lighthouse Reef,Atoll,Mesoamerica,Great Caribbean
+20020,20,2013-08-05 09:52:00,2013-08-05 10:41:00,CRB,Atlantic,Belize,bz,-6,San Pedro,Barrier,Mesoamerica,Great Caribbean
+20021,20,2013-08-05 12:00:09,2013-08-05 12:44:50,CRB,Atlantic,Belize,bz,-6,Caye Caulker,Barrier,Mesoamerica,Great Caribbean
+20022,20,2013-08-05 14:50:44,2013-08-05 15:38:29,CRB,Atlantic,Belize,bz,-6,Caye Chapel,Barrier,Mesoamerica,Great Caribbean
+20023,20,2013-08-06 08:52:56,2013-08-06 09:48:22,CRB,Atlantic,Belize,bz,-6,South Gallows Reef,Barrier,Mesoamerica,Great Caribbean

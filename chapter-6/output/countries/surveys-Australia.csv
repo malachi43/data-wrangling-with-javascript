@@ -1,0 +1,260 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+10001,10,2012-09-16 16:16:00,2012-09-16 16:53:00,GBR,Australia,Australia,au,10,Opal Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+10002,10,2012-09-17 10:54:00,2012-09-17 11:54:00,GBR,Australia,Australia,au,10,Opal Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+10003,10,2012-09-18 13:30:16,2012-09-18 14:10:05,GBR,Australia,Australia,au,10,Opal Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+10004,10,2012-09-20 12:43:39,2012-09-20 13:26:24,GBR,Australia,Australia,au,10,Holmes Reef,Outer,Coral Sea,Coral Sea
+10005,10,2012-09-20 15:43:39,2012-09-20 16:26:02,GBR,Australia,Australia,au,10,Holmes Reef,Outer,Coral Sea,Coral Sea
+10006,10,2012-09-20 15:45:00,2012-09-20 16:35:00,GBR,Australia,Australia,au,10,Holmes Reef,Outer,Coral Sea,Coral Sea
+10007,10,2012-09-21 13:03:00,2012-09-21 13:35:00,GBR,Australia,Australia,au,10,Holmes Reef,Outer,Coral Sea,Coral Sea
+10008,10,2012-09-21 09:17:00,2012-09-21 10:00:00,GBR,Australia,Australia,au,10,Holmes Reef,Outer,Coral Sea,Coral Sea
+10009,10,2012-09-22 08:37:00,2012-09-22 09:21:00,GBR,Australia,Australia,au,10,Holmes Reef,Outer,Coral Sea,Coral Sea
+10010,10,2012-09-22 10:53:07,2012-09-22 11:39:49,GBR,Australia,Australia,au,10,Holmes Reef,Outer,Coral Sea,Coral Sea
+10011,10,2012-09-23 12:19:00,2012-09-23 13:04:00,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10012,10,2012-09-23 14:30:09,2012-09-23 15:20:04,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10013,10,2012-09-24 14:53:08,2012-09-24 15:10:46,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10014,10,2012-09-24 09:10:00,2012-09-24 09:56:00,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10015,10,2012-09-25 13:31:01,2012-09-25 13:43:19,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10016,10,2012-09-25 08:52:00,2012-09-25 09:38:00,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10017,10,2012-09-25 15:09:00,2012-09-25 15:54:00,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10018,10,2012-09-26 15:36:36,2012-09-26 16:21:13,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10019,10,2012-09-26 08:16:00,2012-09-26 09:02:00,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10020,10,2012-09-26 15:36:36,2012-09-26 16:21:13,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10021,10,2012-09-27 15:40:00,2012-09-27 16:26:00,GBR,Australia,Australia,au,10,Myrmidon Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+10022,10,2012-09-27 10:50:00,2012-09-27 11:41:00,GBR,Australia,Australia,au,10,Myrmidon Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+10023,10,2012-09-28 10:11:00,2012-09-28 11:06:00,GBR,Australia,Australia,au,10,Myrmidon Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+10024,10,2012-09-28 07:43:00,2012-09-28 08:35:00,GBR,Australia,Australia,au,10,Myrmidon Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+10025,10,2012-09-24 16:20:00,2012-09-24 16:59:00,GBR,Australia,Australia,au,10,Flinders Reef,Outer,Coral Sea,Coral Sea
+10026,10,2012-09-22 16:10:00,2012-09-22 16:56:00,GBR,Australia,Australia,au,10,Holmes Reef,Outer,Coral Sea,Coral Sea
+11001,11,2012-10-06 11:25:00,2012-10-06 12:09:00,GBR,Australia,Australia,au,10,Davies Reef,Middle,Townsville-Whitsunday,Great Barrier Reef
+11002,11,2012-10-06 15:35:00,2012-10-06 16:30:00,GBR,Australia,Australia,au,10,Davies Reef,Middle,Townsville-Whitsunday,Great Barrier Reef
+11003,11,2012-10-07 11:30:00,2012-10-07 12:17:00,GBR,Australia,Australia,au,10,Chicken Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+11004,11,2012-10-07 14:21:16,2012-10-07 16:04:53,GBR,Australia,Australia,au,10,Chicken Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+11005,11,2012-10-08 12:19:00,2012-10-08 12:46:00,GBR,Australia,Australia,au,10,Knife Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+11006,11,2012-10-08 10:01:30,2012-10-08 11:23:21,GBR,Australia,Australia,au,10,Knife Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+11007,11,2012-10-08 14:28:57,2012-10-08 14:55:39,GBR,Australia,Australia,au,10,Knife Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+11008,11,2012-10-09 15:35:00,2012-10-09 16:30:00,GBR,Australia,Australia,au,10,Yongala Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+11009,11,2012-10-09 09:10:00,2012-10-09 10:10:00,GBR,Australia,Australia,au,10,Yongala Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+11010,11,2012-10-09 12:15:00,2012-10-09 13:05:00,GBR,Australia,Australia,au,10,Yongala Reef,Outer,Townsville-Whitsunday,Great Barrier Reef
+12001,12,2012-10-20 11:48:00,2012-10-20 12:26:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+12002,12,2012-10-20 10:17:00,2012-10-20 10:57:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+12003,12,2012-10-31 14:09:00,2012-10-31 14:25:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+12004,12,2012-10-21 15:13:00,2012-10-21 15:57:00,GBR,Australia,Australia,au,10,Yonge Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+12005,12,2012-10-21 10:11:00,2012-10-21 10:51:00,GBR,Australia,Australia,au,10,Yonge Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+12007,12,2012-10-22 09:03:00,2012-10-22 10:15:00,GBR,Australia,Australia,au,10,Day Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+12008,12,2012-10-23 15:15:45,2012-10-23 15:34:48,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12009,12,2012-10-23 09:50:00,2012-10-23 10:34:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12010,12,2012-10-23 11:44:00,2012-10-23 12:27:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12011,12,2012-10-24 08:49:00,2012-10-24 09:27:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12012,12,2012-10-24 10:43:00,2012-10-24 11:09:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12013,12,2012-10-24 12:57:00,2012-10-24 13:21:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12014,12,2012-10-24 14:37:00,2012-10-24 15:01:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12015,12,2012-10-25 12:12:00,2012-10-25 12:50:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12016,12,2012-10-25 15:16:05,2012-10-25 16:14:22,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12017,12,2012-10-26 00:00:00,2012-10-26 00:00:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12018,12,2012-10-26 09:26:00,2012-10-26 10:09:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12019,12,2012-10-26 11:37:00,2012-10-26 12:18:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12020,12,2012-10-26 15:01:08,2012-10-26 15:49:19,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12021,12,2012-10-27 08:44:00,2012-10-27 09:29:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12022,12,2012-10-27 10:46:00,2012-10-27 11:31:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12023,12,2012-10-27 13:25:00,2012-10-27 14:11:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12024,12,2012-10-27 11:31:00,2012-10-27 11:44:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12025,12,2012-10-28 10:49:00,2012-10-28 11:34:00,GBR,Australia,Australia,au,10,Day Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+12026,12,2012-10-28 12:35:00,2012-10-28 13:20:00,GBR,Australia,Australia,au,10,Day Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+12027,12,2012-10-28 15:03:00,2012-10-28 15:49:00,GBR,Australia,Australia,au,10,Day Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+12028,12,2012-10-29 09:04:00,2012-10-29 09:51:00,GBR,Australia,Australia,au,10,Yonge Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+12029,12,2012-10-29 11:54:00,2012-10-29 12:04:00,GBR,Australia,Australia,au,10,Ribbon Reef 10,Outer,Cairns-Cooktown,Great Barrier Reef
+12030,12,2012-10-20 13:57:00,2012-10-20 14:41:00,GBR,Australia,Australia,au,10,Ribbon Reef 10,Outer,Cairns-Cooktown,Great Barrier Reef
+12031,12,2012-10-30 10:32:42,2012-10-30 12:53:45,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+12032,12,2012-10-30 09:16:34,2012-10-30 09:27:39,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+12033,12,2012-10-30 12:36:54,2012-10-30 12:53:45,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+12034,12,2012-10-30 14:45:54,2012-10-30 15:32:48,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+12035,12,2012-10-29 14:17:00,2012-10-29 15:26:00,GBR,Australia,Australia,au,10,Ribbon Reef 10,Outer,Cairns-Cooktown,Great Barrier Reef
+12036,12,2012-10-31 10:40:00,2012-10-31 11:26:00,GBR,Australia,Australia,au,10,Ribbon Reef 5,Outer,Cairns-Cooktown,Great Barrier Reef
+12037,12,2012-10-31 13:01:59,2012-10-31 13:46:35,GBR,Australia,Australia,au,10,15041 Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+12038,12,2012-10-31 08:24:00,2012-10-31 09:11:00,GBR,Australia,Australia,au,10,Ribbon Reef 5,Outer,Cairns-Cooktown,Great Barrier Reef
+13001,13,2012-11-04 10:10:00,2012-11-04 10:21:00,GBR,Australia,Australia,au,10,Heron Island Reef,Outer,Mackay-Capricorn,Great Barrier Reef
+13002,13,2012-11-04 11:45:00,2012-11-04 12:35:00,GBR,Australia,Australia,au,10,Heron Island Reef,Outer,Mackay-Capricorn,Great Barrier Reef
+13003,13,2012-11-07 11:28:00,2012-11-07 12:11:00,GBR,Australia,Australia,au,10,Wilson Island Reef,Outer,Mackay-Capricorn,Great Barrier Reef
+13004,13,2012-11-07 08:58:00,2012-11-07 09:38:00,GBR,Australia,Australia,au,10,Wilson Island Reef,Outer,Mackay-Capricorn,Great Barrier Reef
+13005,13,2012-11-06 10:10:00,2012-11-06 11:11:00,GBR,Australia,Australia,au,10,One Tree Island Reef,Outer,Mackay-Capricorn,Great Barrier Reef
+14001,14,2012-11-20 10:00:00,2012-11-20 10:45:00,GBR,Australia,Australia,au,10,Norman Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14002,14,2012-11-20 11:47:00,2012-11-20 12:33:00,GBR,Australia,Australia,au,10,Norman Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14003,14,2012-11-20 15:03:00,2012-11-20 15:12:00,GBR,Australia,Australia,au,10,Norman Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14004,14,2012-11-21 09:22:00,2012-11-21 09:34:00,GBR,Australia,Australia,au,10,Opal Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14005,14,2012-11-21 10:57:00,2012-11-21 11:42:00,GBR,Australia,Australia,au,10,Opal Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14006,14,2012-11-21 13:46:00,2012-11-21 14:31:00,GBR,Australia,Australia,au,10,Opal Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14007,14,2012-11-21 16:01:00,2012-11-21 16:46:00,GBR,Australia,Australia,au,10,Opal Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14008,14,2012-11-22 12:47:43,2012-11-22 12:53:00,GBR,Australia,Australia,au,10,St. Crispin Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14009,14,2012-11-22 08:57:00,2012-11-22 09:41:00,GBR,Australia,Australia,au,10,St. Crispin Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14010,14,2012-11-22 10:45:00,2012-11-22 11:15:00,GBR,Australia,Australia,au,10,St. Crispin Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14011,14,2012-11-22 15:07:00,2012-11-22 15:53:00,GBR,Australia,Australia,au,10,St. Crispin Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+14012,14,2012-11-23 16:09:00,2012-11-23 16:20:00,GBR,Australia,Australia,au,10,Agincourt Reef 2b,Outer,Cairns-Cooktown,Great Barrier Reef
+14013,14,2012-11-23 08:53:46,2012-11-23 10:37:24,GBR,Australia,Australia,au,10,Agincourt Reef 5,Outer,Cairns-Cooktown,Great Barrier Reef
+14014,14,2012-11-23 11:50:00,2012-11-23 12:40:00,GBR,Australia,Australia,au,10,Agincourt Reef 5,Outer,Cairns-Cooktown,Great Barrier Reef
+14015,14,2012-11-23 14:49:00,2012-11-23 15:37:00,GBR,Australia,Australia,au,10,Agincourt Reef 2b,Outer,Cairns-Cooktown,Great Barrier Reef
+14016,14,2012-11-24 08:38:00,2012-11-24 09:39:00,GBR,Australia,Australia,au,10,Agincourt Reef 4,Outer,Cairns-Cooktown,Great Barrier Reef
+14017,14,2012-11-24 10:45:00,2012-11-24 11:39:00,GBR,Australia,Australia,au,10,Agincourt Reef 4,Outer,Cairns-Cooktown,Great Barrier Reef
+14018,14,2012-11-24 13:05:00,2012-11-24 14:00:00,GBR,Australia,Australia,au,10,Agincourt Reef 4,Outer,Cairns-Cooktown,Great Barrier Reef
+14019,14,2012-11-20 15:14:00,2012-11-20 15:59:00,GBR,Australia,Australia,au,10,Norman Reef,Outer,Cairns-Cooktown,Great Barrier Reef
+15001,15,2012-12-11 12:44:00,2012-12-11 13:19:00,GBR,Australia,Australia,au,10,Great Detached Reef,Outer,Far Northern,Great Barrier Reef
+15002,15,2012-12-11 14:44:00,2012-12-11 15:27:00,GBR,Australia,Australia,au,10,Great Detached Reef,Outer,Far Northern,Great Barrier Reef
+15003,15,2012-12-12 13:45:00,2012-12-12 14:00:00,GBR,Australia,Australia,au,10,Great Detached Reef,Outer,Far Northern,Great Barrier Reef
+15004,15,2012-12-12 11:35:00,2012-12-12 12:25:00,GBR,Australia,Australia,au,10,Great Detached Reef,Outer,Far Northern,Great Barrier Reef
+15005,15,2012-12-12 08:49:00,2012-12-12 09:31:00,GBR,Australia,Australia,au,10,Great Detached Reef,Outer,Far Northern,Great Barrier Reef
+15006,15,2012-12-13 09:53:00,2012-12-13 10:38:00,GBR,Australia,Australia,au,10,Saunders Reef,Outer,Far Northern,Great Barrier Reef
+15007,15,2012-12-13 12:10:43,2012-12-13 12:56:17,GBR,Australia,Australia,au,10,Saunders Reef,Outer,Far Northern,Great Barrier Reef
+15008,15,2012-12-13 15:14:00,2012-12-13 15:59:00,GBR,Australia,Australia,au,10,Saunders Reef,Outer,Far Northern,Great Barrier Reef
+15009,15,2012-12-14 10:09:00,2012-12-14 10:55:00,GBR,Australia,Australia,au,10,Wishbone Reef,Outer,Far Northern,Great Barrier Reef
+15010,15,2012-12-14 13:36:00,2012-12-14 14:20:00,GBR,Australia,Australia,au,10,Wishbone Reef,Outer,Far Northern,Great Barrier Reef
+15011,15,2012-12-14 15:43:00,2012-12-14 16:25:00,GBR,Australia,Australia,au,10,Wishbone Reef,Outer,Far Northern,Great Barrier Reef
+15012,15,2012-12-15 10:01:00,2012-12-15 10:47:00,GBR,Australia,Australia,au,10,Mantis Reef,Outer,Far Northern,Great Barrier Reef
+15013,15,2012-12-15 11:54:00,2012-12-15 12:29:00,GBR,Australia,Australia,au,10,Mantis Reef,Outer,Far Northern,Great Barrier Reef
+15014,15,2012-12-16 11:49:00,2012-12-16 12:39:00,GBR,Australia,Australia,au,10,Tijou Reef,Outer,Far Northern,Great Barrier Reef
+15015,15,2012-12-16 09:48:00,2012-12-16 10:31:00,GBR,Australia,Australia,au,10,Tijou Reef,Outer,Far Northern,Great Barrier Reef
+15016,15,2012-12-16 11:48:00,2012-12-16 12:34:00,GBR,Australia,Australia,au,10,Tijou Reef,Outer,Far Northern,Great Barrier Reef
+15017,15,2012-12-16 14:43:00,2012-12-16 15:01:00,GBR,Australia,Australia,au,10,Tijou Reef,Outer,Far Northern,Great Barrier Reef
+15018,15,2012-12-17 12:28:59,2012-12-17 12:45:35,GBR,Australia,Australia,au,10,13040 Reef,Outer,Far Northern,Great Barrier Reef
+15019,15,2012-12-17 09:07:00,2012-12-17 10:07:00,GBR,Australia,Australia,au,10,Tijou Reef,Outer,Far Northern,Great Barrier Reef
+15020,15,2012-12-17 14:17:39,2012-12-17 15:03:02,GBR,Australia,Australia,au,10,13050 Reef,Outer,Far Northern,Great Barrier Reef
+15021,15,2012-12-17 10:53:58,2012-12-17 11:41:17,GBR,Australia,Australia,au,10,13040 Reef,Outer,Far Northern,Great Barrier Reef
+15022,15,2012-12-18 09:21:00,2012-12-18 10:05:00,GBR,Australia,Australia,au,10,13074 Reef,Outer,Far Northern,Great Barrier Reef
+15023,15,2012-12-18 11:01:00,2012-12-18 11:48:00,GBR,Australia,Australia,au,10,13116 Reef,Outer,Far Northern,Great Barrier Reef
+15024,15,2012-12-18 14:15:00,2012-12-18 14:54:00,GBR,Australia,Australia,au,10,13074 Reef,Outer,Far Northern,Great Barrier Reef
+15025,15,2012-12-19 09:45:00,2012-12-19 10:30:00,GBR,Australia,Australia,au,10,Wilson Reef,Outer,Far Northern,Great Barrier Reef
+15026,15,2012-12-19 11:18:00,2012-12-19 12:08:00,GBR,Australia,Australia,au,10,Wilson Reef,Outer,Far Northern,Great Barrier Reef
+15027,15,2012-12-19 14:54:00,2012-12-19 16:00:00,GBR,Australia,Australia,au,10,Wilson Reef,Outer,Far Northern,Great Barrier Reef
+15028,15,2012-12-20 09:21:00,2012-12-20 10:08:00,GBR,Australia,Australia,au,10,Tydemann Reef,Outer,Far Northern,Great Barrier Reef
+15029,15,2012-12-20 11:03:00,2012-12-20 12:01:00,GBR,Australia,Australia,au,10,Tydemann Reef,Outer,Far Northern,Great Barrier Reef
+15030,15,2012-12-20 14:41:00,2012-12-20 15:27:00,GBR,Australia,Australia,au,10,Tydemann Reef,Outer,Far Northern,Great Barrier Reef
+15031,15,2012-12-21 09:11:00,2012-12-21 09:58:00,GBR,Australia,Australia,au,10,14034 Reef,Outer,Far Northern,Great Barrier Reef
+15032,15,2012-12-21 10:48:00,2012-12-21 11:35:00,GBR,Australia,Australia,au,10,14034 Reef,Outer,Far Northern,Great Barrier Reef
+15033,15,2012-12-21 13:44:00,2012-12-21 14:26:00,GBR,Australia,Australia,au,10,14034 Reef,Outer,Far Northern,Great Barrier Reef
+12001,27,2014-05-13 15:24:00,2014-05-13 15:41:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+12029,27,2014-05-09 09:57:00,2014-05-09 10:50:00,GBR,Australia,Australia,au,10,Ribbon Reef 10,Outer,Cairns-Cooktown,Great Barrier Reef
+12029,27,2014-05-09 11:48:00,2014-05-09 12:40:00,GBR,Australia,Australia,au,10,Ribbon Reef 10,Outer,Cairns-Cooktown,Great Barrier Reef
+12001,27,2014-05-09 15:21:00,2014-05-09 16:06:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+12001,27,2014-05-09 16:18:00,2014-05-09 16:43:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+12014,27,2014-05-10 11:28:00,2014-05-10 12:01:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12013,27,2014-05-10 12:12:00,2014-05-10 12:35:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12016,27,2014-05-10 13:30:00,2014-05-10 14:07:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12018,27,2014-05-10 15:50:00,2014-05-10 16:17:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12022,27,2014-05-10 16:26:00,2014-05-10 17:00:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12010,27,2014-05-11 08:00:00,2014-05-11 08:36:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12024,27,2014-05-11 11:04:00,2014-05-11 11:44:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12011,27,2014-05-11 13:24:00,2014-05-11 14:16:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12012,27,2014-05-11 15:30:00,2014-05-11 16:06:00,GBR,Australia,Australia,au,10,Osprey Reef,Outer,Coral Sea,Coral Sea
+12001,27,2014-05-12 16:15:00,2014-05-12 17:02:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer,Cairns-Cooktown,Great Barrier Reef
+27016,27,2014-05-13 07:54:00,2014-05-13 08:26:00,GBR,Australia,Australia,au,10,Acropolis Reef,Patch Reef,Cairns-Cooktown,Great Barrier Reef
+27017,27,2014-05-14 14:52:00,2014-05-14 15:00:00,GBR,Australia,Australia,au,10,Ribbon Reef 3,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+29001,29,2014-02-20 12:27:00,2014-02-20 12:57:00,SYD,Australia,Australia,au,11,North Bondi,Rocky,Sydney Harbour,New South Wales
+29002,29,2014-02-21 11:08:00,2014-02-21 11:51:00,SYD,Australia,Australia,au,11,Middle Head,Rocky,Sydney Harbour,New South Wales
+29003,29,2014-02-21 12:44:00,2014-02-21 13:25:00,SYD,Australia,Australia,au,11,North Head,Rocky,Sydney Harbour,New South Wales
+29004,29,2014-02-21 15:22:00,2014-02-21 16:09:00,SYD,Australia,Australia,au,11,South Head,Rocky,Sydney Harbour,New South Wales
+29005,29,2014-03-03 13:37:00,2014-03-03 14:07:00,SYD,Australia,Australia,au,11,Balgowlah,Rocky,Sydney Harbour,New South Wales
+29006,29,2014-03-03 15:04:00,2014-03-03 15:13:00,SYD,Australia,Australia,au,11,Manly Point,Rocky,Sydney Harbour,New South Wales
+29007,29,2014-03-04 11:25:00,2014-03-04 12:01:00,SYD,Australia,Australia,au,11,Manly Outside,Rocky,Sydney Harbour,New South Wales
+29008,29,2014-03-04 13:08:00,2014-03-04 13:12:00,SYD,Australia,Australia,au,11,Shelley Beach,Rocky,Sydney Harbour,New South Wales
+29009,29,2014-03-04 13:20:00,2014-03-04 14:00:00,SYD,Australia,Australia,au,11,Shelley Beach,Rocky,Sydney Harbour,New South Wales
+29010,29,2014-03-05 10:53:00,2014-03-05 11:36:00,SYD,Australia,Australia,au,11,North Bondi,Rocky,Sydney Harbour,New South Wales
+29011,29,2014-03-05 12:43:00,2014-03-05 13:03:00,SYD,Australia,Australia,au,11,North Head,Rocky,Sydney Harbour,New South Wales
+29012,29,2014-03-05 13:48:00,2014-03-05 14:34:00,SYD,Australia,Australia,au,11,Chowder Bay,Sandy,Sydney Harbour,New South Wales
+29013,29,2014-03-06 11:37:00,2014-03-06 12:11:00,SYD,Australia,Australia,au,11,Shark Bay,Rocky,Sydney Harbour,New South Wales
+29014,29,2014-03-06 15:53:00,2014-03-06 16:17:00,SYD,Australia,Australia,au,11,Shark Bay,Rocky,Sydney Harbour,New South Wales
+29015,29,2014-03-07 11:27:00,2014-03-07 11:54:00,SYD,Australia,Australia,au,11,Clovelly,Rocky,Sydney Harbour,New South Wales
+29016,29,2014-03-07 13:00:00,2014-03-07 13:34:00,SYD,Australia,Australia,au,11,Magic Point,Rocky,Sydney Harbour,New South Wales
+29017,29,2014-03-07 14:58:00,2014-03-07 15:32:00,SYD,Australia,Australia,au,11,Shelley Beach,Rocky,Sydney Harbour,New South Wales
+29018,29,2014-02-19 10:58:00,2014-03-19 11:23:00,SYD,Australia,Australia,au,11,Chowder Bay,Sandy,Sydney Harbour,New South Wales
+10002,35,2014-11-24 14:57:00,2014-11-24 16:00:00,GBR,Australia,Australia,au,10,Opal Reef,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+10001,35,2014-11-24 17:00:00,2014-11-24 18:00:00,GBR,Australia,Australia,au,10,Opal Reef,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+14011,35,2014-11-25 09:20:00,2014-11-25 10:20:00,GBR,Australia,Australia,au,10,St. Crispin Reef,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+14009,35,2014-11-25 00:00:00,2014-11-25 10:20:00,GBR,Australia,Australia,au,10,St. Crispin Reef,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+14014,35,2014-11-26 10:24:00,2014-11-26 10:58:00,GBR,Australia,Australia,au,10,Agincourt Reef 5,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+14015,35,2014-11-26 12:13:00,2014-11-26 13:18:00,GBR,Australia,Australia,au,10,Agincourt Reef 2b,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+14017,35,2014-11-26 15:10:00,2014-11-26 16:10:00,GBR,Australia,Australia,au,10,Agincourt Reef 4,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12036,35,2014-11-27 08:49:00,2014-11-27 09:50:00,GBR,Australia,Australia,au,10,Ribbon Reef 5,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12038,35,2014-11-27 11:00:00,2014-11-27 11:36:00,GBR,Australia,Australia,au,10,Ribbon Reef 5,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+15032,35,2014-11-28 10:58:00,2014-11-28 11:56:00,GBR,Australia,Australia,au,10,14034 Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15033,35,2014-11-28 12:30:00,2014-11-28 13:24:00,GBR,Australia,Australia,au,10,14034 Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15025,35,2014-11-28 15:06:00,2014-11-28 14:08:00,GBR,Australia,Australia,au,10,Wilson Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15015,35,2014-11-29 09:02:00,2014-11-29 10:09:00,GBR,Australia,Australia,au,10,Tijou Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15016,35,2014-11-29 10:57:00,2014-11-29 12:00:00,GBR,Australia,Australia,au,10,Tijou Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15017,35,2014-11-29 13:40:00,2014-11-29 14:45:00,GBR,Australia,Australia,au,10,Tijou Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15003,35,2014-11-30 10:44:00,2014-11-30 11:49:00,GBR,Australia,Australia,au,10,Great Detached Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15001,35,2014-11-30 13:05:00,2014-11-30 14:12:00,GBR,Australia,Australia,au,10,Great Detached Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15004,35,2014-11-30 15:24:00,2014-11-30 16:18:00,GBR,Australia,Australia,au,10,Great Detached Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15006,35,2014-12-01 10:15:00,2014-12-01 11:15:00,GBR,Australia,Australia,au,10,Saunders Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15008,35,2014-12-01 13:23:00,2014-12-01 14:23:00,GBR,Australia,Australia,au,10,Saunders Reef,Outer Barrier,Far Northern,Great Barrier Reef
+15007,35,2014-12-01 15:25:00,2014-12-01 16:30:00,GBR,Australia,Australia,au,10,Saunders Reef,Outer Barrier,Far Northern,Great Barrier Reef
+12026,35,2014-12-03 09:00:00,2014-12-03 10:00:00,GBR,Australia,Australia,au,10,Day Reef,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12025,35,2014-12-03 10:56:00,2014-12-03 12:10:00,GBR,Australia,Australia,au,10,Day Reef,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12027,35,2014-12-03 12:56:00,2014-12-03 13:47:00,GBR,Australia,Australia,au,10,Day Reef,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12033,35,2014-12-04 10:19:00,2014-12-04 11:09:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12001,35,2014-12-04 11:51:00,2014-12-04 12:41:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12030,35,2014-12-04 13:17:00,2014-12-04 14:03:00,GBR,Australia,Australia,au,10,Ribbon Reef 10,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12034,35,2014-12-04 14:35:00,2014-12-04 14:56:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12005,35,2014-12-05 09:18:00,2014-12-05 10:22:00,GBR,Australia,Australia,au,10,Yonge Reef,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12028,35,2014-12-05 11:01:00,2014-12-05 12:01:00,GBR,Australia,Australia,au,10,Yonge Reef,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12035,35,2014-12-05 13:31:00,2014-12-05 14:26:00,GBR,Australia,Australia,au,10,Ribbon Reef 10,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+12004,35,2014-12-05 15:20:00,2014-12-05 16:04:00,GBR,Australia,Australia,au,10,Yonge Reef,Outer Barrier,Cairns-Cooktown,Great Barrier Reef
+40001,40,2014-02-09 10:30:00,2014-02-09 10:53:52,GBR,Australia,Australia,au,10,Heron Island Reef,Fringing reef,Mackay-Capricorn,Great Barrier Reef
+40002,40,2014-02-09 11:49:46,2014-02-09 12:13:58,GBR,Australia,Australia,au,10,Heron Island Reef,Fringing reef,Mackay-Capricorn,Great Barrier Reef
+41001,41,2016-03-22 12:21:12,2016-03-22 12:59:12,GBR,Australia,Australia,au,-10,Heron Island Reef,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+41002,41,2016-03-23 15:39:15,2016-03-23 16:26:16,GBR,Australia,Australia,au,-10,Heron Island Reef,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+41003,41,2016-03-24 13:53:13,2016-03-24 14:38:14,GBR,Australia,Australia,au,-10,Heron Island Reef,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+41004,41,2016-03-25 08:41:08,2016-03-25 09:30:09,GBR,Australia,Australia,au,-10,One Tree Island Reef,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+41005,41,2016-03-25 10:25:10,2016-03-25 11:10:11,GBR,Australia,Australia,au,-10,One Tree Island Reef,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+13005,41,2016-03-25 12:08:12,2016-03-25 12:48:12,GBR,Australia,Australia,au,-10,One Tree Island Reef,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+13001,41,2016-03-26 09:13:09,2016-03-26 10:04:10,GBR,Australia,Australia,au,-10,Heron Island Reef,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+13002,41,2016-03-26 10:58:10,2016-03-26 11:42:11,GBR,Australia,Australia,au,-10,Heron Island Reef,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+40001,41,2016-03-26 12:41:12,2016-03-26 13:27:13,GBR,Australia,Australia,au,-10,Heron Island Reef,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+13003,41,2016-03-27 08:47:08,2016-03-27 09:33:09,GBR,Australia,Australia,au,-10,Wilson Island Reef,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+41011,41,2016-03-27 11:57:11,2016-03-27 12:31:12,GBR,Australia,Australia,au,-10,Wreck Island,Fringing/Outer reef,Mackay-Capricorn,Great Barrier Reef
+14019,45,2016-10-19 13:04:00,2016-10-19 13:52:00,GBR,Australia,Australia,au,10,Norman Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14001,45,2016-10-19 15:01:00,2016-10-19 15:27:00,GBR,Australia,Australia,au,10,Norman Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14005,45,2016-10-20 08:18:00,2016-10-20 09:08:00,GBR,Australia,Australia,au,10,Opal Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14006,45,2016-10-20 10:19:00,2016-10-20 11:09:00,GBR,Australia,Australia,au,10,Opal Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14007,45,2016-10-20 12:11:00,2016-10-20 13:00:00,GBR,Australia,Australia,au,10,Opal Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+10001,45,2016-10-21 08:56:00,2016-10-21 09:43:00,GBR,Australia,Australia,au,10,North Opal Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+10002,45,2016-10-21 10:38:00,2016-10-21 11:25:00,GBR,Australia,Australia,au,10,North Opal Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+10003,45,2016-10-21 12:12:00,2016-10-21 12:58:00,GBR,Australia,Australia,au,10,North Opal Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14009,45,2016-10-22 09:01:00,2016-10-22 09:51:00,GBR,Australia,Australia,au,10,St. Crispin Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14010,45,2016-10-22 11:26:00,2016-10-22 12:18:00,GBR,Australia,Australia,au,10,St. Crispin Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14011,45,2016-10-22 13:17:00,2016-10-22 14:01:00,GBR,Australia,Australia,au,10,St. Crispin Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14013,45,2016-10-23 09:58:00,2016-10-23 10:49:00,GBR,Australia,Australia,au,10,Agincourt Reef 5,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14014,45,2016-10-23 11:42:00,2016-10-23 12:24:00,GBR,Australia,Australia,au,10,Agincourt Reef 5,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14015,45,2016-10-23 13:54:00,2016-10-23 14:48:00,GBR,Australia,Australia,au,10,Agincourt Reef 2b,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14018,45,2016-10-24 08:11:00,2016-10-24 09:00:00,GBR,Australia,Australia,au,10,Agincourt Reef 4,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+14016,45,2016-10-24 10:10:00,2016-10-24 10:59:00,GBR,Australia,Australia,au,10,Agincourt Reef 4,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12036,45,2016-10-25 08:45:00,2016-10-25 09:40:00,GBR,Australia,Australia,au,10,Ribbon Reef 5,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12037,45,2016-10-25 10:40:00,2016-10-25 11:26:00,GBR,Australia,Australia,au,10,15041 Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12038,45,2016-10-25 13:40:00,2016-10-25 14:27:00,GBR,Australia,Australia,au,10,Ribbon Reef 5,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12033,45,2016-10-26 09:18:00,2016-10-26 10:10:00,GBR,Australia,Australia,au,10,Ribbon Reef 9,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12030,45,2016-10-26 11:35:00,2016-10-26 12:22:00,GBR,Australia,Australia,au,10,14152 Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12034,45,2016-10-26 12:51:00,2016-10-26 13:41:00,GBR,Australia,Australia,au,10,14153 Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12004,45,2016-10-27 08:30:00,2016-10-27 09:17:00,GBR,Australia,Australia,au,10,Yonge Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12028,45,2016-10-27 10:01:00,2016-10-27 10:46:00,GBR,Australia,Australia,au,10,Yonge Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12005,45,2016-10-27 12:01:00,2016-10-27 12:47:00,GBR,Australia,Australia,au,10,Yonge Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12025,45,2016-10-28 10:46:00,2016-10-28 11:31:00,GBR,Australia,Australia,au,10,Day Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12026,45,2016-10-28 12:16:00,2016-10-28 13:01:00,GBR,Australia,Australia,au,10,Day Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+12027,45,2016-10-28 13:59:00,2016-10-28 14:50:00,GBR,Australia,Australia,au,10,Day Reef,Barrier Reef,Cairns-Cooktown,Great Barrier Reef
+15030,45,2016-10-29 08:30:30,2016-10-29 09:16:00,GBR,Australia,Australia,au,10,Tydeman Reef,Barrier Reef,Far northern,Great Barrier Reef
+15028,45,2016-10-29 10:06:30,2016-10-29 10:52:00,GBR,Australia,Australia,au,10,Tydeman Reef,Barrier Reef,Far northern,Great Barrier Reef
+15029,45,2016-10-29 12:12:30,2016-10-29 12:56:00,GBR,Australia,Australia,au,10,Tydeman Reef,Barrier Reef,Far northern,Great Barrier Reef
+15026,45,2016-10-30 08:44:30,2016-10-30 09:28:00,GBR,Australia,Australia,au,10,Wilson Reef,Barrier Reef,Far northern,Great Barrier Reef
+15025,45,2016-10-30 10:28:30,2016-10-30 11:13:00,GBR,Australia,Australia,au,10,Wilson Reef,Barrier Reef,Far northern,Great Barrier Reef
+15027,45,2016-10-30 12:37:30,2016-10-30 13:26:00,GBR,Australia,Australia,au,10,Wilson Reef,Barrier Reef,Far northern,Great Barrier Reef
+15031,45,2016-10-31 10:51:30,2016-10-31 11:36:00,GBR,Australia,Australia,au,10,14034 Reef,Barrier Reef,Far northern,Great Barrier Reef
+15032,45,2016-10-31 12:25:30,2016-10-31 13:12:00,GBR,Australia,Australia,au,10,14034 Reef,Barrier Reef,Far northern,Great Barrier Reef
+15033,45,2016-10-31 14:05:30,2016-10-31 14:40:00,GBR,Australia,Australia,au,10,14034 Reef,Barrier Reef,Far northern,Great Barrier Reef
+15023,45,2016-11-01 08:52:30,2016-11-01 09:38:00,GBR,Australia,Australia,au,10,13116 Reef,Barrier Reef,Far northern,Great Barrier Reef
+15022,45,2016-11-01 10:34:30,2016-11-01 11:20:00,GBR,Australia,Australia,au,10,13074 Reef,Barrier Reef,Far northern,Great Barrier Reef
+15024,45,2016-11-01 12:11:30,2016-11-01 12:54:00,GBR,Australia,Australia,au,10,13074 Reef,Barrier Reef,Far northern,Great Barrier Reef
+15021,45,2016-11-02 08:44:30,2016-11-02 09:30:00,GBR,Australia,Australia,au,10,13040 Reef,Barrier Reef,Far northern,Great Barrier Reef
+15020,45,2016-11-02 10:29:30,2016-11-02 11:12:00,GBR,Australia,Australia,au,10,13050 Reef,Barrier Reef,Far northern,Great Barrier Reef
+15019,45,2016-11-02 12:09:30,2016-11-02 12:53:00,GBR,Australia,Australia,au,10,Tijou Reef,Barrier Reef,Far northern,Great Barrier Reef
+15015,45,2016-11-03 09:41:30,2016-11-03 10:21:00,GBR,Australia,Australia,au,10,Tijou Reef,Barrier Reef,Far northern,Great Barrier Reef
+15016,45,2016-11-03 11:20:30,2016-11-03 12:00:00,GBR,Australia,Australia,au,10,Tijou Reef,Barrier Reef,Far northern,Great Barrier Reef
+15017,45,2016-11-03 13:10:30,2016-11-03 13:55:00,GBR,Australia,Australia,au,10,Tijou Reef,Barrier Reef,Far northern,Great Barrier Reef
+15014,45,2016-11-03 14:38:30,2016-11-03 15:02:00,GBR,Australia,Australia,au,10,Tijou Reef,Barrier Reef,Far northern,Great Barrier Reef
+15012,45,2016-11-04 09:30:30,2016-11-04 10:10:00,GBR,Australia,Australia,au,10,Mantis Reef,Barrier Reef,Far northern,Great Barrier Reef
+15013,45,2016-11-04 11:08:00,2016-11-04 11:57:00,GBR,Australia,Australia,au,10,Mantis Reef,Barrier Reef,Far northern,Great Barrier Reef

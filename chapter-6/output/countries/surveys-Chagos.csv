@@ -1,0 +1,30 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+36001,36,2015-02-12 12:10:00,2015-02-12 13:07:00,IO,Indian.Ocean,Chagos,io,6,Danger Island,Atoll,Chagos,Indian_Ocean
+36002,36,2015-02-12 15:35:00,2015-02-13 16:33:00,IO,Indian.Ocean,Chagos,io,6,Danger Island,Atoll,Chagos,Indian_Ocean
+36003,36,2015-02-13 08:52:00,2015-02-13 09:51:00,IO,Indian.Ocean,Chagos,io,6,Eagle Island,Atoll Forereef,Chagos,Indian_Ocean
+36004,36,2015-02-13 15:45:00,2015-02-13 16:39:00,IO,Indian.Ocean,Chagos,io,6,Middle Brother,Lagoon,Chagos,Indian_Ocean
+36005,36,2015-02-14 09:17:00,2015-02-14 10:18:00,IO,Indian.Ocean,Chagos,io,6,Ile Fouquet,Atoll,Chagos,Indian_Ocean
+36006,36,2015-02-14 11:17:00,2015-02-14 12:20:00,IO,Indian.Ocean,Chagos,io,6,Ile du Coin,Lagoon,Chagos,Indian_Ocean
+36007,36,2015-02-14 14:56:00,2015-02-14 15:58:00,IO,Indian.Ocean,Chagos,io,6,Ile Vache Marine,Atoll,Chagos,Indian_Ocean
+36008,36,2015-02-15 09:16:00,2015-02-15 10:09:00,IO,Indian.Ocean,Chagos,io,6,Moresby Island Outside,Atoll,Chagos,Indian_Ocean
+36009,36,2015-02-15 11:26:00,2015-02-15 12:11:00,IO,Indian.Ocean,Chagos,io,6,Ile de Passe Outside,Atoll,Chagos,Indian_Ocean
+36010,36,2015-02-15 15:00:00,2015-02-15 15:48:00,IO,Indian.Ocean,Chagos,io,6,Moresby Island Inside,Atoll,Chagos,Indian_Ocean
+36011,36,2015-02-16 09:14:00,2015-02-16 10:12:00,IO,Indian.Ocean,Chagos,io,6,Petit Ile Coquillage,Atoll,Chagos,Indian_Ocean
+36012,36,2015-02-16 11:04:00,2015-02-16 12:00:00,IO,Indian.Ocean,Chagos,io,6,Petit Ile Coquillage,Atoll,Chagos,Indian_Ocean
+36013,36,2015-02-17 09:11:00,2015-02-17 10:26:00,IO,Indian.Ocean,Chagos,io,6,Ile Anglaise Inside,Atoll,Chagos,Indian_Ocean
+36014,36,2015-02-17 11:26:00,2015-02-17 12:32:00,IO,Indian.Ocean,Chagos,io,6,Ile de la Passe Inside,Atoll,Chagos,Indian_Ocean
+36015,36,2015-02-17 14:29:00,2015-02-17 15:26:00,IO,Indian.Ocean,Chagos,io,6,Ile Poule Inside,Atoll,Chagos,Indian_Ocean
+36016,36,2015-02-18 09:28:00,2015-02-18 10:31:00,IO,Indian.Ocean,Chagos,io,6,Ile de la Passe Outside,Atoll,Chagos,Indian_Ocean
+36017,36,2015-02-18 13:24:00,2015-02-18 14:41:00,IO,Indian.Ocean,Chagos,io,6,Ile Poule Outside,Atoll,Chagos,Indian_Ocean
+36018,36,2015-02-18 15:51:00,2015-02-18 16:50:00,IO,Indian.Ocean,Chagos,io,6,Ile Anglaise Outside,Atoll,Chagos,Indian_Ocean
+36019,36,2015-02-19 09:32:00,2015-02-19 10:28:00,IO,Indian.Ocean,Chagos,io,6,Blenheim Reef 1,Atoll,Chagos,Indian_Ocean
+36020,36,2015-02-19 11:47:00,2015-02-19 12:38:00,IO,Indian.Ocean,Chagos,io,6,Blenheim Reef 2,Atoll,Chagos,Indian_Ocean
+36021,36,2015-02-20 10:45:00,2015-02-20 11:40:00,IO,Indian.Ocean,Chagos,io,6,Speakers Bank South Outside,Atoll,Chagos,Indian_Ocean
+36022,36,2015-02-20 12:22:00,2015-02-20 13:16:00,IO,Indian.Ocean,Chagos,io,6,Speakers Bank South Inside,Atoll,Chagos,Indian_Ocean
+36023,36,2015-02-20 14:45:00,2015-02-20 15:43:00,IO,Indian.Ocean,Chagos,io,6,Speakers Bank East Outside,Atoll,Chagos,Indian_Ocean
+36025,36,2015-02-22 09:30:00,2015-02-22 15:54:00,IO,Indian.Ocean,Chagos,io,6,Nelson Island Outside,Atoll,Chagos,Indian_Ocean
+36026,36,2015-02-22 11:01:00,2015-02-22 11:35:00,IO,Indian.Ocean,Chagos,io,6,Nelson Island Engagement,Atoll,Chagos,Indian_Ocean
+36027,36,2015-02-22 15:54:00,2015-02-22 16:51:00,IO,Indian.Ocean,Chagos,io,6,Kristen's Reef,Atoll,Chagos,Indian_Ocean
+36028,36,2015-02-24 08:01:00,2015-02-24 08:57:00,IO,Indian.Ocean,Chagos,io,6,Egmont Southeast,Atoll,Chagos,Indian_Ocean
+36029,36,2015-02-24 09:28:00,2015-02-24 10:25:00,IO,Indian.Ocean,Chagos,io,6,Egmont South,Atoll,Chagos,Indian_Ocean
+36204,36,2015-02-21 13:35:00,2015-02-21 14:31:00,IO,Indian.Ocean,Chagos,io,6,Nelson Island Inside,Atoll,Chagos,Indian_Ocean

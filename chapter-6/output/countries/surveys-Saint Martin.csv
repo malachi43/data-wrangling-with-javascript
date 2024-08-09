@@ -1,0 +1,5 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+25033,25,2013-12-05 12:13:26,2013-12-05 13:02:04,CRB,Atlantic,Saint Martin,mf,-4,La Reserve Naturelle De Saint-,Fringing,Lesser Antilles,Great Caribbean
+25034,25,2013-12-05 13:55:11,2013-12-05 14:46:36,CRB,Atlantic,Saint Martin,mf,-4,La Reserve Naturelle De Saint-,Fringing,Lesser Antilles,Great Caribbean
+25035,25,2013-12-06 09:28:44,2013-12-06 10:20:16,CRB,Atlantic,Saint Martin,mf,-4,Man Of War Shoal Marine Park,Ship Wreck,Lesser Antilles,Great Caribbean
+25036,25,2013-12-06 11:29:22,2013-12-06 12:51:07,CRB,Atlantic,Saint Martin,mf,-4,Man Of War Shoal Marine Park,Ship Wreck,Lesser Antilles,Great Caribbean

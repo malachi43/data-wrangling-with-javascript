@@ -1,0 +1,27 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+30001,30,2014-07-24 12:46:00,2014-07-24 13:47:00,SEA,Southeast Asia,East Timor,tl,9,Baucau,Fringing,Timor-Leste,Coral Triangle
+30002,30,2014-07-24 14:55:09,2014-07-24 15:43:27,SEA,Southeast Asia,East Timor,tl,9,Baucau,Fringing,Timor-Leste,Coral Triangle
+30003,30,2014-07-24 16:52:08,2014-07-24 17:42:00,SEA,Southeast Asia,East Timor,tl,9,Baucau,Fringing,Timor-Leste,Coral Triangle
+30004,30,2014-07-25 10:14:00,2014-07-25 11:17:00,SEA,Southeast Asia,East Timor,tl,9,Com,Fringing,Timor-Leste,Coral Triangle
+30005,30,2014-07-25 12:56:00,2014-07-25 13:51:00,SEA,Southeast Asia,East Timor,tl,9,Com,Fringing,Timor-Leste,Coral Triangle
+30006,30,2014-07-25 15:10:00,2014-07-25 15:46:00,SEA,Southeast Asia,East Timor,tl,9,Com,Fringing,Timor-Leste,Coral Triangle
+30007,30,2014-07-26 09:44:00,2014-07-26 10:38:00,SEA,Southeast Asia,East Timor,tl,9,Jaco Island,Fringing,Timor-Leste,Coral Triangle
+30008,30,2014-07-26 12:20:00,2014-07-26 13:19:00,SEA,Southeast Asia,East Timor,tl,9,Jaco Island,Fringing,Timor-Leste,Coral Triangle
+30009,30,2014-07-26 14:42:00,2014-07-26 15:31:00,SEA,Southeast Asia,East Timor,tl,9,Jaco Island,Fringing,Timor-Leste,Coral Triangle
+30010,30,2014-07-27 10:27:00,2014-07-27 11:30:00,SEA,Southeast Asia,East Timor,tl,9,Manututo,Fringing,Timor-Leste,Coral Triangle
+30011,30,2014-07-27 12:49:00,2014-07-27 13:49:00,SEA,Southeast Asia,East Timor,tl,9,Manututo,Fringing,Timor-Leste,Coral Triangle
+30012,30,2014-07-27 15:24:00,2014-07-27 16:24:00,SEA,Southeast Asia,East Timor,tl,9,Manututo,Fringing,Timor-Leste,Coral Triangle
+30013,30,2014-07-28 09:45:00,2014-07-28 10:34:00,SEA,Southeast Asia,East Timor,tl,9,North Atauro,Fringing,Timor-Leste,Coral Triangle
+30014,30,2014-07-28 14:14:00,2014-07-28 15:11:00,SEA,Southeast Asia,East Timor,tl,9,North Atauro,Fringing,Timor-Leste,Coral Triangle
+30015,30,2014-07-28 16:46:00,2014-07-28 17:31:00,SEA,Southeast Asia,East Timor,tl,9,North Atauro,Fringing,Timor-Leste,Coral Triangle
+30016,30,2014-07-29 10:17:00,2014-07-29 11:04:00,SEA,Southeast Asia,East Timor,tl,9,South Atauro,Fringing,Timor-Leste,Coral Triangle
+30017,30,2014-07-29 13:33:00,2014-07-29 14:30:00,SEA,Southeast Asia,East Timor,tl,9,South Atauro,Fringing,Timor-Leste,Coral Triangle
+30018,30,2014-07-29 15:43:00,2014-07-29 16:38:00,SEA,Southeast Asia,East Timor,tl,9,South Atauro,Fringing,Timor-Leste,Coral Triangle
+30019,30,2014-07-30 10:08:00,2014-07-30 11:06:00,SEA,Southeast Asia,East Timor,tl,9,East Oecussi,Fringing,Timor-Leste,Coral Triangle
+30020,30,2014-07-30 12:00:00,2014-07-30 12:59:00,SEA,Southeast Asia,East Timor,tl,9,East Oecussi,Fringing,Timor-Leste,Coral Triangle
+30021,30,2014-07-30 13:55:00,2014-07-30 14:49:00,SEA,Southeast Asia,East Timor,tl,9,East Oecussi,Fringing,Timor-Leste,Coral Triangle
+30022,30,2014-07-31 09:12:00,2014-07-31 10:11:00,SEA,Southeast Asia,East Timor,tl,9,West Oecussi,Fringing,Timor-Leste,Coral Triangle
+30023,30,2014-07-31 11:03:00,2014-07-31 12:00:00,SEA,Southeast Asia,East Timor,tl,9,West Oecussi,Fringing,Timor-Leste,Coral Triangle
+30024,30,2014-07-31 12:55:00,2014-07-31 13:49:00,SEA,Southeast Asia,East Timor,tl,9,West Oecussi,Fringing,Timor-Leste,Coral Triangle
+30025,30,2014-08-01 10:08:00,2014-08-01 11:03:00,SEA,Southeast Asia,East Timor,tl,9,Dili JC Backside,Fringing,Timor-Leste,Coral Triangle
+30026,30,2014-08-01 13:06:00,2014-08-01 13:55:00,SEA,Southeast Asia,East Timor,tl,9,Dili JC Frontside,Fringing,Timor-Leste,Coral Triangle

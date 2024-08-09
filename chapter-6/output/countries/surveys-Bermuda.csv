@@ -1,0 +1,13 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+21001,21,2013-09-19 11:15:34,2013-09-19 11:58:51,CRB,Atlantic,Bermuda,bm,-3,Southwest Bermuda,Atoll,Western Atlantic,Western Atlantic
+21002,21,2013-09-19 13:18:00,2013-09-19 14:04:00,CRB,Atlantic,Bermuda,bm,-3,Southwest Bermuda,Atoll,Western Atlantic,Western Atlantic
+21003,21,2013-09-19 15:26:00,2013-09-19 16:10:00,CRB,Atlantic,Bermuda,bm,-3,Southwest Bermuda,Atoll,Western Atlantic,Western Atlantic
+21004,21,2013-09-20 14:36:00,2013-09-20 15:18:00,CRB,Atlantic,Bermuda,bm,-3,Southeast Bermuda,Atoll,Western Atlantic,Western Atlantic
+21005,21,2013-09-21 11:31:20,2013-09-21 12:27:33,CRB,Atlantic,Bermuda,bm,-3,West Bermuda,Atoll,Western Atlantic,Western Atlantic
+21006,21,2013-09-21 14:07:00,2013-09-21 14:45:00,CRB,Atlantic,Bermuda,bm,-3,West Bermuda,Atoll,Western Atlantic,Western Atlantic
+21007,21,2013-09-22 10:59:00,2013-09-22 11:43:00,CRB,Atlantic,Bermuda,bm,-3,North Bermuda,Atoll,Western Atlantic,Western Atlantic
+21008,21,2013-09-22 13:08:20,2013-09-22 13:51:12,CRB,Atlantic,Bermuda,bm,-3,North Bermuda,Atoll,Western Atlantic,Western Atlantic
+21009,21,2013-09-22 14:58:34,2013-09-22 15:02:31,CRB,Atlantic,Bermuda,bm,-3,North Bermuda,Atoll,Western Atlantic,Western Atlantic
+21010,21,2013-09-25 11:01:00,2013-09-25 11:48:00,CRB,Atlantic,Bermuda,bm,-3,East Bermuda,Atoll,Western Atlantic,Western Atlantic
+21011,21,2013-09-25 13:06:00,2013-09-25 13:51:00,CRB,Atlantic,Bermuda,bm,-3,East Bermuda,Atoll,Western Atlantic,Western Atlantic
+21012,21,2013-09-25 14:56:55,2013-09-25 15:41:57,CRB,Atlantic,Bermuda,bm,-3,East Bermuda,Atoll,Western Atlantic,Western Atlantic

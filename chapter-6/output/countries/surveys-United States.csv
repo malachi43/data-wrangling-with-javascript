@@ -1,0 +1,121 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+31001,31,2014-08-06 11:46:00,2014-08-06 12:25:00,NOAA,Atlantic,United States,us,-5,Florida Upper Keys,Patch,Florida Keys,Great Caribbean
+31002,31,2014-08-06 13:59:00,2014-08-06 14:20:00,NOAA,Atlantic,United States,us,-5,Jesus Christ Statue,Patch,Florida Keys,Great Caribbean
+31003,31,2014-08-07 14:37:41,2014-08-07 17:14:13,NOAA,Atlantic,United States,us,-4,Aquarius Reef Base,,Florida Keys,Great Caribbean
+31004,31,2014-08-07 16:35:00,2014-08-07 17:14:00,NOAA,Atlantic,United States,us,-5,Conch Reef,Terrace,Florida Keys,Great Caribbean
+31005,31,2014-08-08 13:13:00,2014-08-08 13:57:00,NOAA,Atlantic,United States,us,-5,Davis Reef,Spur And Grooves,Florida Keys,Great Caribbean
+31006,31,2014-08-08 13:13:00,2014-08-08 13:57:00,NOAA,Atlantic,United States,us,-5,Crocker Reef,Spur And Grooves,Florida Keys,Great Caribbean
+31007,31,2014-08-09 13:00:00,2014-08-09 13:22:00,NOAA,Atlantic,United States,us,-5,Coral Nursery,,Florida Keys,Great Caribbean
+31008,31,2014-08-09 15:50:00,2014-08-09 16:59:00,NOAA,Atlantic,United States,us,-5,Snapper Ledge,Terrace,Florida Keys,Great Caribbean
+31009,31,2014-08-10 13:16:00,2014-08-10 14:48:00,NOAA,Atlantic,United States,us,-5,Molasses Reef,Patch,Florida Keys,Great Caribbean
+31010,31,2014-08-10 16:12:00,2014-08-10 16:42:00,NOAA,Atlantic,United States,us,-5,French Reef,Patch,Florida Keys,Great Caribbean
+31011,31,2014-08-11 15:04:00,2014-08-11 15:36:00,NOAA,Atlantic,United States,us,-5,Cheeca Rocks,Path,Florida Keys,Great Caribbean
+31012,31,2014-08-11 16:19:00,2014-08-11 16:37:00,NOAA,Atlantic,United States,us,-5,Cheeca Rocks,Path,Florida Keys,Great Caribbean
+31013,31,2014-08-12 12:07:00,2014-08-12 13:08:00,NOAA,Atlantic,United States,us,-5,Benwood Wreck,Wreck,Florida Keys,Great Caribbean
+31014,31,2014-08-12 14:17:00,2014-08-12 15:12:00,NOAA,Atlantic,United States,us,-5,French Reef,Patch,Florida Keys,Great Caribbean
+31015,31,2014-08-12 16:00:00,2014-08-12 16:28:00,NOAA,Atlantic,United States,us,-5,Molasses Reef,Patch,Florida Keys,Great Caribbean
+31016,31,2014-08-13 10:10:00,2014-08-13 10:26:00,NOAA,Atlantic,United States,us,-5,Eagle Wreck,Wreck,Florida Keys,Great Caribbean
+31017,31,2014-08-13 12:24:00,2014-08-13 13:08:00,NOAA,Atlantic,United States,us,-5,Cheeca Rocks,Path,Florida Keys,Great Caribbean
+31018,31,2014-08-13 14:16:00,2014-08-13 15:34:00,NOAA,Atlantic,United States,us,-5,Cheeca Rocks,Path,Florida Keys,Great Caribbean
+38001,38,2015-08-12 10:49:10,2015-08-12 11:20:37,Hawai,Pacific,United States,us,-10,Ohau island,Rocky reef,Hawaii,Hawaii
+38002,38,2015-08-12 12:47:33,2015-08-12 13:37:25,Hawai,Pacific,United States,us,-10,Ohau island,Patch,Hawaii,Hawaii
+38003,38,2015-08-13 13:49:14,2015-08-13 14:04:43,Hawai,Pacific,United States,us,-10,Ohau island,Patch,Hawaii,Hawaii
+38004,38,2015-08-17 10:04:24,2015-08-17 11:16:58,Hawai,Pacific,United States,us,-10,Hawaii island,Rocky reef,Hawaii,Hawaii
+38005,38,2015-08-17 12:47:31,2015-08-17 13:48:45,Hawai,Pacific,United States,us,-10,Hawaii island,Rocky reef,Hawaii,Hawaii
+38006,38,2015-08-17 15:18:33,2015-08-17 16:17:00,Hawai,Pacific,United States,us,-10,Hawaii island,Rocky reef,Hawaii,Hawaii
+38007,38,2015-08-18 11:13:27,2015-08-18 11:59:08,Hawai,Pacific,United States,us,-10,Hawaii island,Rocky reef,Hawaii,Hawaii
+38008,38,2015-08-18 13:34:15,2015-08-18 14:13:29,Hawai,Pacific,United States,us,-10,Hawaii island,Fringing reef,Hawaii,Hawaii
+38009,38,2015-08-19 09:13:26,2015-08-19 10:01:39,Hawai,Pacific,United States,us,-10,Hawaii island,Rocky reef,Hawaii,Hawaii
+38010,38,2015-08-19 11:44:17,2015-08-19 12:29:47,Hawai,Pacific,United States,us,-10,Hawaii island,Fringing reef,Hawaii,Hawaii
+38011,38,2015-08-19 14:01:09,2015-08-19 14:33:04,Hawai,Pacific,United States,us,-10,Hawaii island,Rocky reef,Hawaii,Hawaii
+38012,38,2015-08-20 10:10:30,2015-08-20 10:56:44,Hawai,Pacific,United States,us,-10,Hawaii island,Rocky reef,Hawaii,Hawaii
+38013,38,2015-08-20 12:48:51,2015-08-20 13:23:58,Hawai,Pacific,United States,us,-10,Hawaii island,,Hawaii,Hawaii
+38014,38,2015-08-20 14:35:55,2015-08-20 15:17:48,Hawai,Pacific,United States,us,-10,Hawaii island,Fringing reef,Hawaii,Hawaii
+38015,38,2015-08-23 10:10:25,2015-08-23 10:19:06,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+38016,38,2015-08-23 11:14:40,2015-08-23 11:58:36,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+38017,38,2015-08-23 13:01:44,2015-08-23 13:38:24,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+38018,38,2015-08-23 14:25:06,2015-08-23 15:18:20,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+38019,38,2015-08-24 09:45:46,2015-08-24 10:31:24,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38020,38,2015-08-24 11:33:50,2015-08-24 12:11:40,Hawai,Pacific,United States,us,-10,Molokai island,Patch reef,Hawaii,Hawaii
+38021,38,2015-08-24 13:20:40,2015-08-24 13:46:46,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38022,38,2015-08-25 11:07:23,2015-08-25 11:48:50,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38023,38,2015-08-25 12:35:44,2015-08-25 13:27:06,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38024,38,2015-08-25 14:08:17,2015-08-25 14:54:04,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38025,38,2015-08-26 09:47:04,2015-08-26 10:32:00,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38026,38,2015-08-26 11:12:43,2015-08-26 11:35:30,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38019,38,2015-08-26 12:18:12,2015-08-26 13:08:52,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38028,38,2015-08-27 10:23:07,2015-08-27 11:10:14,Hawai,Pacific,United States,us,-10,Maui island,Rocky reef,Hawaii,Hawaii
+38029,38,2015-08-27 12:21:47,2015-08-27 13:07:58,Hawai,Pacific,United States,us,-10,Maui island,Rocky reef,Hawaii,Hawaii
+38030,38,2015-08-27 14:15:12,2015-08-27 15:00:52,Hawai,Pacific,United States,us,-10,Maui island,Rocky reef,Hawaii,Hawaii
+38031,38,2015-08-28 08:43:53,2015-08-28 09:33:40,Hawai,Pacific,United States,us,-10,Maui island,,Hawaii,Hawaii
+38032,38,2015-08-28 10:47:58,2015-08-28 11:34:36,Hawai,Pacific,United States,us,-10,Maui island,Rocky reef,Hawaii,Hawaii
+38033,38,2015-08-28 12:56:32,2015-08-28 13:41:12,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+38034,38,2015-08-29 09:22:08,2015-08-29 09:31:22,Hawai,Pacific,United States,us,-10,Maui island,Rocky reef,Hawaii,Hawaii
+38035,38,2015-08-29 10:37:04,2015-08-29 11:20:22,Hawai,Pacific,United States,us,-10,Maui island,Patch reef,Hawaii,Hawaii
+38036,38,2015-08-29 12:46:44,2015-08-29 13:37:00,Hawai,Pacific,United States,us,-10,Maui island,Rocky reef,Hawaii,Hawaii
+38037,38,2015-08-30 08:09:02,2015-08-30 08:56:13,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+38038,38,2015-08-30 09:55:58,2015-08-30 10:25:52,Hawai,Pacific,United States,us,-10,Lanai island,Sand flat,Hawaii,Hawaii
+38039,38,2015-08-30 11:10:52,2015-08-30 12:51:34,Hawai,Pacific,United States,us,-10,Lanai island,Rocky reef,Hawaii,Hawaii
+38040,38,2015-08-30 12:05:05,2015-08-30 12:51:34,Hawai,Pacific,United States,us,-10,Lanai island,Rocky reef,Hawaii,Hawaii
+38041,38,2015-08-31 08:53:49,2015-08-31 09:52:35,Hawai,Pacific,United States,us,-10,Maui island,Fringing and Rocky reef,Hawaii,Hawaii
+38042,38,2015-08-31 10:55:26,2015-08-31 11:27:04,Hawai,Pacific,United States,us,-10,Maui island,,Hawaii,Hawaii
+38043,38,2015-08-31 12:39:52,2015-08-31 13:20:23,Hawai,Pacific,United States,us,-10,Maui island,Patch reef,Hawaii,Hawaii
+38044,38,2015-09-01 08:57:19,2015-09-01 09:32:43,Hawai,Pacific,United States,us,-10,Maui island,Fringing,Hawaii,Hawaii
+38045,38,2015-09-01 10:37:28,2015-09-01 11:27:05,Hawai,Pacific,United States,us,-10,Maui island,Fringing,Hawaii,Hawaii
+38046,38,2015-09-01 13:57:39,2015-09-01 14:42:58,Hawai,Pacific,United States,us,-10,Maui island,Fringing,Hawaii,Hawaii
+38041,39,2015-11-02 10:12:00,2015-11-02 11:00:00,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+38019,39,2015-11-02 12:52:00,2015-11-02 13:42:00,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38043,39,2015-11-02 15:57:00,2015-11-02 16:43:00,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+38025,39,2015-11-03 08:52:00,2015-11-03 09:36:00,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38024,39,2015-11-03 10:24:00,2015-11-03 11:14:00,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38023,39,2015-11-03 12:02:00,2015-11-03 12:45:00,Hawai,Pacific,United States,us,-10,Molokai island,Fringing reef,Hawaii,Hawaii
+38016,39,2015-11-04 08:43:00,2015-11-04 09:30:00,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+38017,39,2015-11-04 10:55:00,2015-11-04 11:45:00,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+38018,39,2015-11-04 12:29:00,2015-11-04 13:17:00,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+38037,39,2015-11-05 08:55:00,2015-11-05 09:49:00,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+38039,39,2015-11-05 10:45:00,2015-11-05 11:26:00,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+38039,39,2015-11-05 12:07:00,2015-11-05 13:01:00,Hawai,Pacific,United States,us,-10,Lanai island,Fringing reef,Hawaii,Hawaii
+39013,39,2015-11-06 09:28:00,2015-11-06 10:20:00,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+38033,39,2015-11-06 11:21:00,2015-11-06 12:09:00,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+38036,39,2015-11-07 09:32:00,2015-11-07 10:22:00,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+39016,39,2015-11-07 11:35:00,2015-11-07 12:20:00,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+38035,39,2015-11-07 13:12:00,2015-11-07 13:50:00,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+38044,39,2015-11-08 09:28:00,2015-11-08 10:16:00,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+38045,39,2015-11-08 10:54:00,2015-11-08 11:42:45,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+38046,39,2015-11-08 12:32:00,2015-11-08 13:18:00,Hawai,Pacific,United States,us,-10,Maui island,Fringing reef,Hawaii,Hawaii
+38005,44,2016-06-02 09:24:00,2016-06-02 10:25:00,Hawai,Pacific,United States,us,-10,Hawaii Island,Rocky reef,Hawaii,Hawaii
+38004,44,2016-06-02 11:10:00,2016-06-02 12:04:00,Hawai,Pacific,United States,us,-10,Hawaii Island,Rocky reef,Hawaii,Hawaii
+38006,44,2016-06-02 12:57:00,2016-06-02 13:52:00,Hawai,Pacific,United States,us,-10,Hawaii Island,Rocky reef,Hawaii,Hawaii
+38007,44,2016-06-03 10:14:00,2016-06-03 11:00:00,Hawai,Pacific,United States,us,-10,Hawaii Island,Rocky reef,Hawaii,Hawaii
+38008,44,2016-06-03 12:18:00,2016-06-03 13:03:00,Hawai,Pacific,United States,us,-10,Hawaii Island,Rocky reef,Hawaii,Hawaii
+38009,44,2016-06-04 09:54:10,2016-06-04 10:41:09,Hawai,Pacific,United States,us,-10,Hawaii Island,Fringing reef,Hawaii,Hawaii
+38010,44,2016-06-04 11:25:42,2016-06-04 12:10:23,Hawai,Pacific,United States,us,-10,Hawaii Island,Fringing reef,Hawaii,Hawaii
+38011,44,2016-06-04 12:57:26,2016-06-04 13:38:50,Hawai,Pacific,United States,us,-10,Hawaii Island,Fringing reef,Hawaii,Hawaii
+38012,44,2016-06-05 09:42:19,2016-06-05 10:20:57,Hawai,Pacific,United States,us,-10,Hawaii Island,Rocky reef,Hawaii,Hawaii
+38013,44,2016-06-05 11:19:34,2016-06-05 13:06:29,Hawai,Pacific,United States,us,-10,Hawaii Island,Rocky reef,Hawaii,Hawaii
+44011,44,2016-06-05 12:34:34,2016-06-05 12:42:00,Hawai,Pacific,United States,us,-10,Hawaii Island,Rocky reef,Hawaii,Hawaii
+38014,44,2016-06-05 13:44:47,2016-06-05 14:33:04,Hawai,Pacific,United States,us,-10,Hawaii Island,Rocky reef,Hawaii,Hawaii
+38022,44,2016-06-08 09:58:24,2016-06-08 10:43:53,Hawai,Pacific,United States,us,-10,Molokai Island,Fringing reef,Hawaii,Hawaii
+38023,44,2016-06-08 11:34:47,2016-06-08 12:35:29,Hawai,Pacific,United States,us,-10,Molokai Island,Fringing reef,Hawaii,Hawaii
+38024,44,2016-06-08 13:31:49,2016-06-08 14:20:56,Hawai,Pacific,United States,us,-10,Molokai Island,Fringing reef,Hawaii,Hawaii
+38037,44,2016-06-09 09:06:38,2016-06-09 09:53:07,Hawai,Pacific,United States,us,-10,Lanai Island,Fringing reef,Hawaii,Hawaii
+38040,44,2016-06-09 10:47:52,2016-06-09 11:37:02,Hawai,Pacific,United States,us,-10,Lanai Island,Rocky reef,Hawaii,Hawaii
+38018,44,2016-06-09 13:08:00,2016-06-09 13:57:55,Hawai,Pacific,United States,us,-10,Lanai Island,Fringing reef,Hawaii,Hawaii
+38017,44,2016-06-10 08:38:46,2016-06-10 09:26:49,Hawai,Pacific,United States,us,-10,Lanai Island,Fringing reef,Hawaii,Hawaii
+38016,44,2016-06-10 10:33:19,2016-06-10 11:16:59,Hawai,Pacific,United States,us,-10,Lanai Island,Fringing reef,Hawaii,Hawaii
+38023,44,2016-06-10 13:16:09,2016-06-10 13:56:36,Hawai,Pacific,United States,us,-10,Molokai Island,Fringing reef,Hawaii,Hawaii
+38032,44,2016-06-11 09:50:37,2016-06-11 10:35:42,Hawai,Pacific,United States,us,-10,Maui Island,Rocky reef,Hawaii,Hawaii
+38033,44,2016-06-11 13:29:05,2016-06-11 14:04:44,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii
+38019,44,2016-06-12 08:51:32,2016-06-12 09:37:50,Hawai,Pacific,United States,us,-10,Molokai Island,Fringing reef,Hawaii,Hawaii
+38026,44,2016-06-12 10:27:39,2016-06-12 11:03:48,Hawai,Pacific,United States,us,-10,Molokai Island,Fringing reef,Hawaii,Hawaii
+38025,44,2016-06-12 11:44:58,2016-06-12 12:27:48,Hawai,Pacific,United States,us,-10,Molokai Island,Fringing reef,Hawaii,Hawaii
+38041,44,2016-06-13 08:17:16,2016-06-13 09:03:13,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii
+38043,44,2016-06-13 10:03:24,2016-06-13 10:52:12,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii
+38046,44,2016-06-13 11:39:20,2016-06-13 12:56:06,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii
+38036,44,2016-06-14 08:44:00,2016-06-14 09:35:00,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii
+39016,44,2016-06-15 08:41:00,2016-06-15 09:23:00,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii
+38034,44,2016-06-15 10:19:00,2016-06-15 10:36:00,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii
+38035,44,2016-06-15 11:36:00,2016-06-15 11:53:00,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii
+38045,44,2016-06-16 08:13:00,2016-06-16 08:51:00,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii
+38036,44,2016-06-16 09:41:00,2016-06-16 10:35:00,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii
+38044,44,2016-06-16 11:15:00,2016-06-16 12:17:00,Hawai,Pacific,United States,us,-10,Maui Island,Fringing reef,Hawaii,Hawaii

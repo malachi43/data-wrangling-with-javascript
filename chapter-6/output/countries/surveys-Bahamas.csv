@@ -1,0 +1,31 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+24001,24,2013-10-24 15:26:54,2013-10-24 16:13:07,CRB,Atlantic,Bahamas,bs,-4,Grand Bahama,Fringing,Lucayan Archipelago,Great Caribbean
+24002,24,2013-10-25 10:01:14,2013-10-25 10:46:18,CRB,Atlantic,Bahamas,bs,-4,Grand Bahama,Fringing,Lucayan Archipelago,Great Caribbean
+24003,24,2013-10-25 12:38:51,2013-10-25 13:26:22,CRB,Atlantic,Bahamas,bs,-4,Grand Bahama,Fringing,Lucayan Archipelago,Great Caribbean
+24004,24,2013-10-25 16:11:34,2013-10-25 16:58:01,CRB,Atlantic,Bahamas,bs,-4,Grand Bahama,Fringing,Lucayan Archipelago,Great Caribbean
+24005,24,2013-10-26 13:30:29,2013-10-26 14:11:21,CRB,Atlantic,Bahamas,bs,-4,Walkers Cay,Fringing,Lucayan Archipelago,Great Caribbean
+24006,24,2013-10-26 16:17:49,2013-10-26 17:00:33,CRB,Atlantic,Bahamas,bs,-4,Walkers Cay,Fringing,Lucayan Archipelago,Great Caribbean
+24007,24,2013-10-27 14:26:34,2013-10-27 15:12:27,CRB,Atlantic,Bahamas,bs,-4,Abaco,Fringing,Lucayan Archipelago,Great Caribbean
+24008,24,2013-10-27 16:22:04,2013-10-27 17:06:47,CRB,Atlantic,Bahamas,bs,-4,Abaco,Fringing,Lucayan Archipelago,Great Caribbean
+24009,24,2013-10-28 10:16:47,2013-10-28 11:02:29,CRB,Atlantic,Bahamas,bs,-4,Berry Cay,Fringing,Lucayan Archipelago,Great Caribbean
+24010,24,2013-10-28 13:11:30,2013-10-28 14:00:23,CRB,Atlantic,Bahamas,bs,-4,Berry Cay,Fringing,Lucayan Archipelago,Great Caribbean
+24011,24,2013-10-30 10:01:40,2013-10-30 10:48:22,CRB,Atlantic,Bahamas,bs,-4,New Providence,Fringing,Lucayan Archipelago,Great Caribbean
+24012,24,2013-10-30 14:27:37,2013-10-30 15:12:46,CRB,Atlantic,Bahamas,bs,-4,New Providence,Fringing,Lucayan Archipelago,Great Caribbean
+24013,24,2013-10-30 16:32:35,2013-10-30 17:18:43,CRB,Atlantic,Bahamas,bs,-4,New Providence,Fringing,Lucayan Archipelago,Great Caribbean
+24014,24,2013-10-31 09:39:05,2013-10-31 10:23:33,CRB,Atlantic,Bahamas,bs,-4,Andros,Fringing,Lucayan Archipelago,Great Caribbean
+24015,24,2013-10-31 11:50:11,2013-10-31 12:33:44,CRB,Atlantic,Bahamas,bs,-4,Andros,Fringing,Lucayan Archipelago,Great Caribbean
+24016,24,2013-11-01 10:03:57,2013-11-01 10:49:25,CRB,Atlantic,Bahamas,bs,-4,Exuma,Fringing,Lucayan Archipelago,Great Caribbean
+24017,24,2013-11-01 12:31:49,2013-11-01 13:11:16,CRB,Atlantic,Bahamas,bs,-4,Exuma,Fringing,Lucayan Archipelago,Great Caribbean
+24018,24,2013-11-01 15:27:56,2013-11-01 16:14:59,CRB,Atlantic,Bahamas,bs,-4,Exuma,Fringing,Lucayan Archipelago,Great Caribbean
+24019,24,2013-11-03 09:42:04,2013-11-03 10:28:54,CRB,Atlantic,Bahamas,bs,-5,Exuma,Fringing,Lucayan Archipelago,Great Caribbean
+24020,24,2013-11-03 11:46:08,2013-11-03 12:35:28,CRB,Atlantic,Bahamas,bs,-5,Exuma,Fringing,Lucayan Archipelago,Great Caribbean
+24021,24,2013-11-03 13:27:23,2013-11-03 14:14:11,CRB,Atlantic,Bahamas,bs,-5,Exuma,Fringing,Lucayan Archipelago,Great Caribbean
+24022,24,2013-11-07 10:11:25,2013-11-07 11:01:37,CRB,Atlantic,Bahamas,bs,-5,Conception Island,Fringing,Lucayan Archipelago,Great Caribbean
+24023,24,2013-11-07 12:28:32,2013-11-07 13:09:29,CRB,Atlantic,Bahamas,bs,-5,Conception Island,Fringing,Lucayan Archipelago,Great Caribbean
+24024,24,2013-11-07 15:42:12,2013-11-07 16:33:58,CRB,Atlantic,Bahamas,bs,-5,Conception Island,Fringing,Lucayan Archipelago,Great Caribbean
+24025,24,2013-11-08 09:56:40,2013-11-08 10:41:31,CRB,Atlantic,Bahamas,bs,-5,San Salvador,Fringing,Lucayan Archipelago,Great Caribbean
+24026,24,2013-11-08 12:15:50,2013-11-08 13:05:43,CRB,Atlantic,Bahamas,bs,-5,San Salvador,Fringing,Lucayan Archipelago,Great Caribbean
+24027,24,2013-11-08 15:19:31,2013-11-08 16:19:10,CRB,Atlantic,Bahamas,bs,-5,San Salvador,Fringing,Lucayan Archipelago,Great Caribbean
+24028,24,2013-11-09 09:43:04,2013-11-09 10:28:59,CRB,Atlantic,Bahamas,bs,-5,Mayaguana,Fringing,Lucayan Archipelago,Great Caribbean
+24029,24,2013-11-09 12:50:56,2013-11-09 13:27:35,CRB,Atlantic,Bahamas,bs,-5,Mayaguana,Fringing,Lucayan Archipelago,Great Caribbean
+24030,24,2013-11-09 15:01:34,2013-11-09 15:47:01,CRB,Atlantic,Bahamas,bs,-5,Mayaguana,Fringing,Lucayan Archipelago,Great Caribbean

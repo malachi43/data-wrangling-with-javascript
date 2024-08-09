@@ -1,0 +1,6 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+17006,17,2013-04-09 09:59:00,2013-04-09 10:47:00,CRB,Atlantic,Aruba,aw,-4,Rocky Beach,Fringing,Southern Caribbean,Great Caribbean
+17049,17,2013-04-09 12:11:00,2013-04-09 12:58:00,CRB,Atlantic,Aruba,aw,-4,Sponge Reef,Ship Wreck,Southern Caribbean,Great Caribbean
+17050,17,2013-04-09 14:20:25,2013-04-09 15:00:48,CRB,Atlantic,Aruba,aw,-4,Barcadera North,Ship Wreck,Southern Caribbean,Great Caribbean
+17051,17,2013-04-10 08:53:07,2013-04-10 09:39:49,CRB,Atlantic,Aruba,aw,-4,Spanish Water,Ship Wreck,Southern Caribbean,Great Caribbean
+17052,17,2013-04-11 00:00:00,2013-04-11 00:00:00,CRB,Atlantic,Aruba,aw,-4,Antilla Wreck,Ship Wreck,Southern Caribbean,Great Caribbean

@@ -1,0 +1,21 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+17005,17,2013-03-29 09:34:00,2013-03-29 10:18:00,CRB,Atlantic,Bonaire,bq,-4,Lac Bay North,Fringing,Southern Caribbean,Great Caribbean
+17030,17,2013-03-29 11:32:47,2013-03-29 12:17:14,CRB,Atlantic,Bonaire,bq,-4,Baby Beach,Fringing,Southern Caribbean,Great Caribbean
+17031,17,2013-03-29 13:41:29,2013-03-29 14:27:12,CRB,Atlantic,Bonaire,bq,-4,Red Slave,Fringing,Southern Caribbean,Great Caribbean
+17032,17,2013-03-30 09:51:57,2013-03-30 10:39:37,CRB,Atlantic,Bonaire,bq,-4,Boca Bartol,Fringing,Southern Caribbean,Great Caribbean
+17033,17,2013-03-30 00:00:00,2013-03-30 00:00:00,CRB,Atlantic,Bonaire,bq,-4,Calabas Reef - 18th Palms,Fringing,Southern Caribbean,Great Caribbean
+17034,17,2013-03-31 08:40:25,2013-03-31 09:24:50,CRB,Atlantic,Bonaire,bq,-4,Klein Bonaire South,Fringing,Southern Caribbean,Great Caribbean
+17035,17,2013-03-31 13:28:57,2013-03-31 14:09:30,CRB,Atlantic,Bonaire,bq,-4,Front-Porch,Fringing,Southern Caribbean,Great Caribbean
+17036,17,2013-03-31 15:13:42,2013-03-31 16:00:07,CRB,Atlantic,Bonaire,bq,-4,Klein Bonaire North,Fringing,Southern Caribbean,Great Caribbean
+17037,17,2013-04-01 08:45:37,2013-04-01 09:18:02,CRB,Atlantic,Bonaire,bq,-4,Barkadera - Small Wall,Fringing,Southern Caribbean,Great Caribbean
+17038,17,2013-04-01 10:59:25,2013-04-01 11:54:30,CRB,Atlantic,Bonaire,bq,-4,Karpata - Bopec,Fringing,Southern Caribbean,Great Caribbean
+17039,17,2013-04-01 13:11:24,2013-04-01 13:59:17,CRB,Atlantic,Bonaire,bq,-4,Karpata - Tolo,Fringing,Southern Caribbean,Great Caribbean
+17040,17,2013-04-02 09:39:23,2013-04-02 10:24:22,CRB,Atlantic,Bonaire,bq,-4,White Slave - Vista Blue,Fringing,Southern Caribbean,Great Caribbean
+17041,17,2013-04-02 11:26:21,2013-04-02 12:21:25,CRB,Atlantic,Bonaire,bq,-4,Pink Beach - Salt Pier,Fringing,Southern Caribbean,Great Caribbean
+17042,17,2013-04-02 13:49:01,2013-04-02 14:40:27,CRB,Atlantic,Bonaire,bq,-4,Alice in Wonderland - Punt Vie,Fringing,Southern Caribbean,Great Caribbean
+17043,17,2013-04-04 08:35:34,2013-04-04 09:27:18,CRB,Atlantic,Bonaire,bq,-4,Calabas Reef - 18th Palms,Fringing,Southern Caribbean,Great Caribbean
+17044,17,2013-04-04 10:29:35,2013-04-04 11:18:28,CRB,Atlantic,Bonaire,bq,-4,Windsock - Bachelors,Fringing,Southern Caribbean,Great Caribbean
+17045,17,2013-04-04 12:21:13,2013-04-04 13:13:18,CRB,Atlantic,Bonaire,bq,-4,Klein Bonaire East,Fringing,Southern Caribbean,Great Caribbean
+17046,17,2013-04-05 09:01:19,2013-04-05 09:47:41,CRB,Atlantic,Bonaire,bq,-4,Bopec West - Carels Vision,Fringing,Southern Caribbean,Great Caribbean
+17047,17,2013-04-05 10:46:28,2013-04-05 12:32:04,CRB,Atlantic,Bonaire,bq,-4,Boka Slagbaai North - Reserve,Fringing,Southern Caribbean,Great Caribbean
+17048,17,2013-04-05 13:08:00,2013-04-05 14:03:00,CRB,Atlantic,Bonaire,bq,-4,No Reserve Diving - Carels Vis,Fringing,Southern Caribbean,Great Caribbean

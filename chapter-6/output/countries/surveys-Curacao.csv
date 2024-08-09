@@ -1,0 +1,25 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+17001,17,2013-03-19 10:26:07,2013-03-19 11:18:11,CRB,Atlantic,Curacao,cw,-4,Curacao Reefs,Fringing,Southern Caribbean,Great Caribbean
+17002,17,2013-03-14 13:55:00,2013-03-14 14:41:00,CRB,Atlantic,Curacao,cw,-4,"Blue Bay, CARMABI",Fringing,Southern Caribbean,Great Caribbean
+17003,17,2013-03-15 10:51:00,2013-03-15 11:42:00,CRB,Atlantic,Curacao,cw,-4,Curacao Reefs,Fringing,Southern Caribbean,Great Caribbean
+17004,17,2013-03-16 10:23:25,2013-03-16 11:05:39,CRB,Atlantic,Curacao,cw,-4,Curacao Reefs,Fringing,Southern Caribbean,Great Caribbean
+17007,17,2013-03-20 10:37:00,2013-03-20 11:25:00,CRB,Atlantic,Curacao,cw,-4,Sea Aquarium,Fringing,Southern Caribbean,Great Caribbean
+17008,17,2013-03-30 09:51:00,2013-03-30 10:39:00,CRB,Atlantic,Curacao,cw,-4,Blue Bay - West,Fringing,Southern Caribbean,Great Caribbean
+17009,17,2013-03-31 08:40:00,2013-03-31 09:24:00,CRB,Atlantic,Curacao,cw,-4,CARMABI,Fringing,Southern Caribbean,Great Caribbean
+17010,17,2013-04-01 08:45:00,2013-04-01 09:18:00,CRB,Atlantic,Curacao,cw,-4,Bullenbaai - West,Fringing,Southern Caribbean,Great Caribbean
+17011,17,2013-04-10 08:53:00,2013-04-10 09:39:00,CRB,Atlantic,Curacao,cw,-4,Boca Sami - West,Fringing,Southern Caribbean,Great Caribbean
+17012,17,2013-04-11 08:47:01,2013-04-11 09:18:08,CRB,Atlantic,Curacao,cw,-4,Saint Michel,Fringing,Southern Caribbean,Great Caribbean
+17013,17,2013-03-15 13:26:00,2013-03-15 14:15:00,CRB,Atlantic,Curacao,cw,-4,Marie Pampoen,Fringing,Southern Caribbean,Great Caribbean
+17014,17,2013-03-16 12:59:15,2013-03-16 13:36:31,CRB,Atlantic,Curacao,cw,-4,Water Factory,Fringing,Southern Caribbean,Great Caribbean
+17015,17,2013-03-16 14:43:00,2013-03-16 15:21:00,CRB,Atlantic,Curacao,cw,-4,Newport,Fringing,Southern Caribbean,Great Caribbean
+17016,17,2013-03-22 09:37:00,2013-03-22 10:32:00,CRB,Atlantic,Curacao,cw,-4,Caracas Baai - East,Fringing,Southern Caribbean,Great Caribbean
+17017,17,2013-03-23 13:35:00,2013-03-23 14:36:00,CRB,Atlantic,Curacao,cw,-4,Caracas Baai - West,Fringing,Southern Caribbean,Great Caribbean
+17018,17,2013-03-23 11:19:00,2013-03-23 12:26:00,CRB,Atlantic,Curacao,cw,-4,East Point,Fringing,Southern Caribbean,Great Caribbean
+17019,17,2013-03-23 16:00:00,2013-03-23 16:46:00,CRB,Atlantic,Curacao,cw,-4,Black Rock,Fringing,Southern Caribbean,Great Caribbean
+17020,17,2013-03-19 00:00:00,2013-03-19 00:00:00,CRB,Atlantic,Curacao,cw,-4,Best Reef,Fringing,Southern Caribbean,Great Caribbean
+17021,17,2013-03-19 12:30:00,2013-03-19 13:16:00,CRB,Atlantic,Curacao,cw,-4,Sea Aquarium,Fringing,Southern Caribbean,Great Caribbean
+17022,17,2013-03-19 14:24:00,2013-03-19 15:14:00,CRB,Atlantic,Curacao,cw,-4,Playa Kanoa,Fringing,Southern Caribbean,Great Caribbean
+17023,17,2013-03-21 12:56:31,2013-03-21 13:40:20,CRB,Atlantic,Curacao,cw,-4,Playa Kanoa - East,Fringing,Southern Caribbean,Great Caribbean
+17024,17,2013-03-22 09:37:32,2013-03-22 10:32:32,CRB,Atlantic,Curacao,cw,-4,Tarpon Bridge,Fringing,Southern Caribbean,Great Caribbean
+17025,17,2013-03-22 12:24:52,2013-03-22 13:13:17,CRB,Atlantic,Curacao,cw,-4,Klein Curacao - North,Fringing,Southern Caribbean,Great Caribbean
+17026,17,2013-03-22 00:00:00,2013-03-22 00:00:00,CRB,Atlantic,Curacao,cw,-4,Klein Curacao - South,Fringing,Southern Caribbean,Great Caribbean

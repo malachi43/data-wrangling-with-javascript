@@ -1,0 +1,15 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+25001,25,2013-11-20 10:33:52,2013-11-20 11:17:55,CRB,Atlantic,Guadeloupe,gp,-4,Goyave,Barrier,Lesser Antilles,Great Caribbean
+25002,25,2013-11-20 12:27:41,2013-11-20 13:36:29,CRB,Atlantic,Guadeloupe,gp,-4,Petit Bourg,Barrier,Lesser Antilles,Great Caribbean
+25003,25,2013-11-21 09:44:00,2013-11-21 10:28:00,CRB,Atlantic,Guadeloupe,gp,-4,Grand Cul De Sac Marin Parc,Fringing,Lesser Antilles,Great Caribbean
+25004,25,2013-11-21 11:54:14,2013-11-21 12:44:04,CRB,Atlantic,Guadeloupe,gp,-4,Grand Cul De Sac Marin Parc,Fringing,Lesser Antilles,Great Caribbean
+25005,25,2013-11-21 13:47:00,2013-11-21 14:40:00,CRB,Atlantic,Guadeloupe,gp,-4,Grand Cul De Sac Marin Parc,Fringing,Lesser Antilles,Great Caribbean
+25006,25,2013-11-22 11:29:00,2013-11-22 12:04:00,CRB,Atlantic,Guadeloupe,gp,-4,Marie Galante,Non-reef,Lesser Antilles,Great Caribbean
+25007,25,2013-11-22 13:33:27,2013-11-22 14:18:11,CRB,Atlantic,Guadeloupe,gp,-4,Marie Galante,Non-reef,Lesser Antilles,Great Caribbean
+25008,25,2013-11-22 15:30:00,2013-11-22 15:48:00,CRB,Atlantic,Guadeloupe,gp,-4,Marie Galante,Non-reef,Lesser Antilles,Great Caribbean
+25009,25,2013-11-23 10:43:00,2013-11-23 11:35:00,CRB,Atlantic,Guadeloupe,gp,-4,Ilet Des Saints,Non-reef,Lesser Antilles,Great Caribbean
+25010,25,2013-11-23 12:14:00,2013-11-23 13:05:00,CRB,Atlantic,Guadeloupe,gp,-4,Ilet Des Saints,Non-reef,Lesser Antilles,Great Caribbean
+25011,25,2013-11-23 13:55:02,2013-11-23 14:44:21,CRB,Atlantic,Guadeloupe,gp,-4,Ilet Des Saints,Non-reef,Lesser Antilles,Great Caribbean
+25012,25,2013-11-24 12:44:26,2013-11-24 13:27:55,CRB,Atlantic,Guadeloupe,gp,-4,Jack Cousteau Parc,Fringing,Lesser Antilles,Great Caribbean
+25013,25,2013-11-24 13:58:40,2013-11-24 14:15:24,CRB,Atlantic,Guadeloupe,gp,-4,Jacques Cousteau Underwater Re,Fringing,Lesser Antilles,Great Caribbean
+25014,25,2013-11-24 15:28:21,2013-11-24 16:09:20,CRB,Atlantic,Guadeloupe,gp,-4,Anse Deshaies,Non-reef,Lesser Antilles,Great Caribbean

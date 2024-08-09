@@ -1,0 +1,21 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+42001,42,2016-05-03 13:55:00,2016-05-03 14:30:00,SEA,Southeast Asia,Taiwan,twn,8,Chia Kou,Fringing,Taiwan,South China Sea
+42002,42,2016-05-04 08:30:00,2016-05-04 08:55:00,SEA,Southeast Asia,Taiwan,twn,8,Mushroom Coral,Fringing,Taiwan,South China Sea
+42003,42,2016-05-04 09:53:00,2016-05-04 10:49:00,SEA,Southeast Asia,Taiwan,twn,8,Shilan,Fringing,Taiwan,South China Sea
+42004,42,2016-05-04 11:07:00,2016-05-04 12:07:00,SEA,Southeast Asia,Taiwan,twn,8,Three Rock,Fringing,Taiwan,South China Sea
+42005,42,2016-05-04 12:44:00,2016-05-04 23:25:00,SEA,Southeast Asia,Taiwan,twn,8,Dai Bai Shia,Fringing,Taiwan,South China Sea
+42006,42,2016-05-05 08:17:00,2016-05-05 09:17:00,SEA,Southeast Asia,Taiwan,twn,8,Chia Kou,Fringing,Taiwan,South China Sea
+42007,42,2016-05-05 09:52:00,2016-05-05 10:43:00,SEA,Southeast Asia,Taiwan,twn,8,Chia Kou,Fringing,Taiwan,South China Sea
+42008,42,2016-05-05 11:27:00,2016-05-05 12:17:00,SEA,Southeast Asia,Taiwan,twn,8,Gong Kwan,Fringing,Taiwan,South China Sea
+42009,42,2016-05-06 09:08:00,2016-05-06 10:05:00,SEA,Southeast Asia,Taiwan,twn,8,Habagou Dog,Fringing,Taiwan,South China Sea
+42010,42,2016-05-06 11:10:00,2016-05-06 11:50:00,SEA,Southeast Asia,Taiwan,twn,8,Chia Kou,Fringing,Taiwan,South China Sea
+42011,42,2016-05-08 14:48:00,2016-05-08 15:42:00,SEA,Southeast Asia,Taiwan,twn,8,Nuclear Inlet,Fringing,Taiwan,South China Sea
+42012,42,2016-05-08 16:15:00,2016-05-08 16:46:00,SEA,Southeast Asia,Taiwan,twn,8,Ho Bi Hu,Fringing,Taiwan,South China Sea
+42013,42,2016-05-09 09:20:00,2016-05-09 10:10:00,SEA,Southeast Asia,Taiwan,twn,8,Nuclear Outlet,Fringing,Taiwan,South China Sea
+42014,42,2016-05-09 11:15:00,2016-05-09 12:10:00,SEA,Southeast Asia,Taiwan,twn,8,Hong Chai,Fringing,Taiwan,South China Sea
+42015,42,2016-05-09 12:55:00,2016-05-09 13:35:00,SEA,Southeast Asia,Taiwan,twn,8,Nuclear Outlet,Fringing,Taiwan,South China Sea
+42016,42,2016-05-09 14:09:00,2016-05-09 14:34:00,SEA,Southeast Asia,Taiwan,twn,8,Tiao Shi,Fringing,Taiwan,South China Sea
+42017,42,2016-05-09 15:00:00,2016-05-09 15:53:00,SEA,Southeast Asia,Taiwan,twn,8,Tiao Shi,Fringing,Taiwan,South China Sea
+42018,42,2016-05-12 10:19:00,2016-05-12 10:52:00,SEA,Southeast Asia,Taiwan,twn,8,Donji - East,Fringing,Taiwan,South China Sea
+42019,42,2016-05-12 11:43:00,2016-05-12 12:18:00,SEA,Southeast Asia,Taiwan,twn,8,Donji Harbour,Fringing,Taiwan,South China Sea
+42020,42,2016-05-12 14:07:00,2016-05-12 14:57:00,SEA,Southeast Asia,Taiwan,twn,8,Donji - West,Fringing,Taiwan,South China Sea

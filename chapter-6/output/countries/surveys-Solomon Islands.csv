@@ -1,0 +1,21 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+34001,34,2014-10-29 12:01:00,2014-10-29 13:03:00,SEA,Pacific,Solomon Islands,sb,11,Munda,Fringing,Solomon Islands,Coral Triangle
+34002,34,2014-10-29 15:47:00,2014-10-29 16:44:00,SEA,Pacific,Solomon Islands,sb,11,Munda,Fringing,Solomon Islands,Coral Triangle
+34003,34,2014-10-30 10:43:00,2014-10-30 11:44:00,SEA,Pacific,Solomon Islands,sb,11,Gizo Island,Fringing,Solomon Islands,Coral Triangle
+34004,34,2014-10-30 14:37:00,2014-10-30 15:42:00,SEA,Pacific,Solomon Islands,sb,11,Gizo Island,Fringing,Solomon Islands,Coral Triangle
+34005,34,2014-10-31 09:20:00,2014-10-31 10:21:00,SEA,Pacific,Solomon Islands,sb,11,Gizo Island,Fringing,Solomon Islands,Coral Triangle
+34006,34,2014-10-31 14:51:00,2014-10-31 15:15:00,SEA,Pacific,Solomon Islands,sb,11,Gizo Island,Fringing,Solomon Islands,Coral Triangle
+34007,34,2014-11-01 08:28:00,2014-11-01 09:35:00,SEA,Pacific,Solomon Islands,sb,11,Arnavon Islands,Fringing,Solomon Islands,Coral Triangle
+34008,34,2014-11-01 15:34:00,2014-11-01 16:37:00,SEA,Pacific,Solomon Islands,sb,11,Arnavon Islands,Fringing,Solomon Islands,Coral Triangle
+34009,34,2014-11-02 08:29:00,2014-11-02 09:36:00,SEA,Pacific,Solomon Islands,sb,11,Arnavon Islands,Fringing,Solomon Islands,Coral Triangle
+34010,34,2014-11-02 11:45:00,2014-11-02 12:41:00,SEA,Pacific,Solomon Islands,sb,11,Arnavon Islands,Fringing,Solomon Islands,Coral Triangle
+34011,34,2014-11-03 10:21:00,2014-11-03 11:29:00,SEA,Pacific,Solomon Islands,sb,11,Malakobi Island,Coral Cay,Solomon Islands,Coral Triangle
+34012,34,2014-11-03 13:34:57,2014-11-03 14:27:18,SEA,Pacific,Solomon Islands,sb,11,Malakobi Island,Coral Cay,Solomon Islands,Coral Triangle
+34013,34,2014-11-04 09:40:00,2014-11-04 10:41:00,SEA,Pacific,Solomon Islands,sb,11,Malakobi Island,Coral Cay,Solomon Islands,Coral Triangle
+34014,34,2014-11-04 13:34:00,2014-11-04 14:27:00,SEA,Pacific,Solomon Islands,sb,11,Malakobi Island,Coral Cay,Solomon Islands,Coral Triangle
+34015,34,2014-11-05 10:33:00,2014-11-05 11:37:00,SEA,Pacific,Solomon Islands,sb,11,Marovo Lagoon,Fringing,Solomon Islands,Coral Triangle
+34016,34,2014-11-05 14:12:00,2014-11-05 15:11:00,SEA,Pacific,Solomon Islands,sb,11,Marovo Lagoon,Fringing,Solomon Islands,Coral Triangle
+34017,34,2014-11-06 10:45:00,2014-11-06 11:49:00,SEA,Pacific,Solomon Islands,sb,11,Marovo Lagoon,Fringing,Solomon Islands,Coral Triangle
+34018,34,2014-11-06 15:17:00,2014-11-06 16:19:00,SEA,Pacific,Solomon Islands,sb,11,Marovo Lagoon,Fringing,Solomon Islands,Coral Triangle
+34019,34,2014-11-07 09:17:00,2014-11-07 10:22:00,SEA,Pacific,Solomon Islands,sb,11,Marovo Lagoon,Fringing,Solomon Islands,Coral Triangle
+34020,34,2014-11-07 14:13:00,2014-11-07 15:00:00,SEA,Pacific,Solomon Islands,sb,11,Marovo Lagoon,Fringing,Solomon Islands,Coral Triangle

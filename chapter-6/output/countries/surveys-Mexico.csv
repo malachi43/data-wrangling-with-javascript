@@ -1,0 +1,24 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+20024,20,2013-08-12 11:29:00,2013-08-12 12:15:00,CRB,Atlantic,Mexico,mx,-5,Mahahual,Barrier,Mesoamerica,Great Caribbean
+20025,20,2013-08-12 13:37:20,2013-08-12 14:11:12,CRB,Atlantic,Mexico,mx,-5,Pta Angel,Barrier,Mesoamerica,Great Caribbean
+20026,20,2013-08-13 12:20:26,2013-08-13 13:06:13,CRB,Atlantic,Mexico,mx,-5,Chinchorro,Atoll,Mesoamerica,Great Caribbean
+20027,20,2013-08-13 14:21:00,2013-08-13 15:03:00,CRB,Atlantic,Mexico,mx,-5,Chinchorro,Atoll,Mesoamerica,Great Caribbean
+20028,20,2013-08-13 16:20:00,2013-08-13 17:05:00,CRB,Atlantic,Mexico,mx,-5,Chinchorro,Atoll,Mesoamerica,Great Caribbean
+20029,20,2013-08-14 12:44:00,2013-08-14 13:12:00,CRB,Atlantic,Mexico,mx,-5,Chinchorro,Atoll,Mesoamerica,Great Caribbean
+20030,20,2013-08-14 14:03:00,2013-08-14 14:48:00,CRB,Atlantic,Mexico,mx,-5,Chinchorro,Atoll,Mesoamerica,Great Caribbean
+20031,20,2013-08-16 12:25:00,2013-08-16 13:22:00,CRB,Atlantic,Mexico,mx,-5,Puerto Aventura,Barrier,Mesoamerica,Great Caribbean
+20032,20,2013-08-16 14:00:00,2013-08-16 15:00:00,CRB,Atlantic,Mexico,mx,-5,Xpu-Ha,Barrier,Mesoamerica,Great Caribbean
+20033,20,2013-08-17 14:27:10,2013-08-17 14:49:42,CRB,Atlantic,Mexico,mx,-5,Tulum,Barrier,Mesoamerica,Great Caribbean
+20034,20,2013-08-17 15:49:52,2013-08-17 16:28:36,CRB,Atlantic,Mexico,mx,-5,Tulum,Barrier,Mesoamerica,Great Caribbean
+20035,20,2013-08-18 10:26:53,2013-08-18 11:06:00,CRB,Atlantic,Mexico,mx,-5,San Antonio,Barrier,Mesoamerica,Great Caribbean
+20036,20,2013-08-18 12:08:10,2013-08-18 12:54:39,CRB,Atlantic,Mexico,mx,-5,Pta-Allen,Barrier,Mesoamerica,Great Caribbean
+20037,20,2013-08-18 14:13:00,2013-08-18 15:01:00,CRB,Atlantic,Mexico,mx,-5,Siahn-Kahan,Barrier,Mesoamerica,Great Caribbean
+20038,20,2013-08-19 11:31:00,2013-08-19 12:20:00,CRB,Atlantic,Mexico,mx,-5,Cozumel,Barrier,Mesoamerica,Great Caribbean
+20039,20,2013-08-19 13:26:00,2013-08-19 14:10:00,CRB,Atlantic,Mexico,mx,-5,Cozumel,Barrier,Mesoamerica,Great Caribbean
+20040,20,2013-08-19 15:47:00,2013-08-19 16:18:00,CRB,Atlantic,Mexico,mx,-5,Cozumel,Barrier,Mesoamerica,Great Caribbean
+20041,20,2013-08-20 14:34:00,2013-08-20 14:55:00,CRB,Atlantic,Mexico,mx,-5,Cozumel,Barrier,Mesoamerica,Great Caribbean
+20042,20,2013-08-20 15:50:40,2013-08-20 16:24:05,CRB,Atlantic,Mexico,mx,-5,Cozumel,Barrier,Mesoamerica,Great Caribbean
+20043,20,2013-08-22 09:45:32,2013-08-22 10:32:18,CRB,Atlantic,Mexico,mx,-5,Puerto Morelos,Barrier,Mesoamerica,Great Caribbean
+20044,20,2013-08-22 11:39:00,2013-08-22 12:26:00,CRB,Atlantic,Mexico,mx,-5,Puerto Morelos,Barrier,Mesoamerica,Great Caribbean
+20045,20,2013-08-22 15:39:15,2013-08-22 15:58:32,CRB,Atlantic,Mexico,mx,-5,Isla Mujeres,Barrier,Mesoamerica,Great Caribbean
+20046,20,2013-08-22 16:13:00,2013-08-22 16:56:00,CRB,Atlantic,Mexico,mx,-5,Isla Mujeres,Barrier,Mesoamerica,Great Caribbean

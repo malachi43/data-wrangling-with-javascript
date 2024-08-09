@@ -1,0 +1,16 @@
+transectid,exp_id,start_datetime,end_datetime,campaing,region,country,country_code,timezone,reef_name,reef_type,sub_region,local_region
+25018,25,2013-11-29 09:01:29,2013-11-29 10:00:35,CRB,Atlantic,Anguilla,ai,-4,South Coast,Fringing,Lesser Antilles,Great Caribbean
+25019,25,2013-11-29 10:47:22,2013-11-29 11:44:45,CRB,Atlantic,Anguilla,ai,-4,South Coast,Fringing,Lesser Antilles,Great Caribbean
+25020,25,2013-11-29 12:37:48,2013-11-29 13:27:25,CRB,Atlantic,Anguilla,ai,-4,South Coast,Fringing,Lesser Antilles,Great Caribbean
+25021,25,2013-11-30 08:59:45,2013-11-30 09:40:18,CRB,Atlantic,Anguilla,ai,-4,Seal Island,Back-reef,Lesser Antilles,Great Caribbean
+25022,25,2013-11-30 10:27:37,2013-11-30 11:16:48,CRB,Atlantic,Anguilla,ai,-4,Seal Island,Back-reef,Lesser Antilles,Great Caribbean
+25023,25,2013-11-30 12:01:28,2013-11-30 12:53:09,CRB,Atlantic,Anguilla,ai,-4,Prickly Pears Cay,Fringing,Lesser Antilles,Great Caribbean
+25024,25,2013-12-01 15:20:51,2013-12-01 15:42:53,CRB,Atlantic,Anguilla,ai,-4,Sandy Island,Fringing,Lesser Antilles,Great Caribbean
+25025,25,2013-12-02 10:02:06,2013-12-02 10:49:14,CRB,Atlantic,Anguilla,ai,-4,Scrub Island,Fringing,Lesser Antilles,Great Caribbean
+25026,25,2013-12-02 11:38:12,2013-12-02 12:24:08,CRB,Atlantic,Anguilla,ai,-4,Scrub Island,Fringing,Lesser Antilles,Great Caribbean
+25027,25,2013-12-02 13:45:03,2013-12-02 14:38:33,CRB,Atlantic,Anguilla,ai,-4,Windward Point,Fringing,Lesser Antilles,Great Caribbean
+25028,25,2013-12-03 09:16:47,2013-12-03 09:54:09,CRB,Atlantic,Anguilla,ai,-4,Dog Island,Non-reef,Lesser Antilles,Great Caribbean
+25029,25,2013-12-03 10:48:37,2013-12-03 11:34:13,CRB,Atlantic,Anguilla,ai,-4,Dog Island,Non-reef,Lesser Antilles,Great Caribbean
+25030,25,2013-12-03 12:14:50,2013-12-03 13:03:47,CRB,Atlantic,Anguilla,ai,-4,Dog Island,Non-reef,Lesser Antilles,Great Caribbean
+25031,25,2013-12-04 09:11:35,2013-12-04 09:54:48,CRB,Atlantic,Anguilla,ai,-4,Shoal Bay,Fringing,Lesser Antilles,Great Caribbean
+25032,25,2013-12-04 10:40:57,2013-12-04 11:30:34,CRB,Atlantic,Anguilla,ai,-4,Shoal Bay,Fringing,Lesser Antilles,Great Caribbean

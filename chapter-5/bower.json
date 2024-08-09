@@ -1,0 +1,26 @@
+{
+  "name": "data-wrangling",
+  "description": "using javascript for data-analysis",
+  "main": "index.js",
+  "authors": [
+    "Malachi <ukomalachi@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "data-analysis",
+    "data-wrangling",
+    "excel"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "flot": "^4.2.6"
+  }
+}
